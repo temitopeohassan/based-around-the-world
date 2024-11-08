@@ -1,0 +1,1906 @@
+[
+  {
+    "image": "Image not found",
+    "name": "TestToken",
+    "link": "https://devfolio.co/projects/testtoken-ebe5",
+    "description": "Test",
+    "author": "Ten"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F97fa8e792560404ba057e8be1be44a4f%2Fffab9cd9-b7dc-4d4e-9bbb-b7c120796e9d.jpeg&w=128&q=75",
+    "name": "AI Voice Agent, Marketing Automation",
+    "link": "https://devfolio.co/projects/ai-voice-agent-marketing-automation-df9e",
+    "description": "AI Outbound and Inbound Voice calls for Appointment booking, Order Management, and Lead Management",
+    "author": "Akinrodoye"
+  },
+  {
+    "image": "Image not found",
+    "name": "AI Education Hub",
+    "link": "https://devfolio.co/projects/ai-education-hub-03df",
+    "description": "AI Education Hub is a community-driven website designed to educate users about Artificial Intelligence and its transformative impact on productivity and creativity.",
+    "author": "Suleiman"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F369665aaf611499b84cadcd565aef6f9%2Ff64a29b8-d2f2-4e37-b71c-a2ba169ab4f3.jpeg&w=128&q=75",
+    "name": "EtherXperience",
+    "link": "https://devfolio.co/projects/etherxperience-022c",
+    "description": "EtherXperience is web application designed to facilitate secure transactions between employers and employees in the blockchain industry.",
+    "author": "EtherXperience"
+  },
+  {
+    "image": "Image not found",
+    "name": "EduBased",
+    "link": "https://devfolio.co/projects/basededu-2d12",
+    "description": "EduBased is a decentralized, onchain-powered database system designed to manage student registration, academic results, and project funding in African Universities.",
+    "author": "Team horizon"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fab53ef5537a840dfb5443498dd1a3ee4%2F33b24d79-ae58-485f-bd26-b9868b79c07f.jpeg&w=128&q=75",
+    "name": "RWAChain",
+    "link": "https://devfolio.co/projects/smartwallet-a959",
+    "description": "Securing Land Ownership on the Base Blockchain",
+    "author": "Phoenix"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa9edd0f020874de0b29b48b4b0bdc79b%2F3eae633f-2350-4afa-a8e0-fe4979dbe782.jpeg&w=128&q=75",
+    "name": "Bitsave Protocol",
+    "link": "https://devfolio.co/projects/bitsave-protocol-bfd3",
+    "description": "The SaveFi Protocol for web3 Finance",
+    "author": "Karla"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F283d2c05de794283b59f36b159d26ff5%2F5e603c82-ecb6-4812-8ec4-7959a6b6708e.jpeg&w=128&q=75",
+    "name": "BottleUp",
+    "link": "https://devfolio.co/projects/bottleup-db14",
+    "description": "Recycle. Reward. Repeat",
+    "author": "Bottleup"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0370c133afd947fb89276e6855049a02%2F90a51451-096b-4520-a293-e66d1c15d6ee.jpeg&w=128&q=75",
+    "name": "Base Meme launcher",
+    "link": "https://devfolio.co/projects/base-meme-launcher-bc3c",
+    "description": "A No-Code Meme Launcher for you to create standard & customizable token on Base",
+    "author": "limoonbase"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fab6acbd823214690b42060ead3824528%2F22522d19-f5b1-4247-8d15-c3c671e726ae.jpeg&w=128&q=75",
+    "name": "CraftLink",
+    "link": "https://devfolio.co/projects/craftlink-8622",
+    "description": "Tokenizing Crafts",
+    "author": "CraftLink"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa53c41315ac8498fa8e0026fbde38646%2F224b9430-d24a-4900-b27f-96745db5977e.jpeg&w=128&q=75",
+    "name": "BaseVote Dapp",
+    "link": "https://devfolio.co/projects/basevote-dapp-e1f1",
+    "description": "An education-themed Web3 voting application",
+    "author": "Dump"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa450dc583162478aa2f833b37ca91ac6%2F6afb93f0-9b22-4bb1-838a-3dc5ab80a7e6.jpeg&w=128&q=75",
+    "name": "Craftiax",
+    "link": "https://devfolio.co/projects/craftiax-bringing-your-fans-onchain-4a6b",
+    "description": "CRAFTIAX: Decentralized art and exhibition gallery, where creators[ musicians, photographers, writers, artists, models] showcase & monetise their talents and connect directly with fans and explorers.",
+    "author": "Craftiax Ops"
+  },
+  {
+    "image": "Image not found",
+    "name": "Roadbase",
+    "link": "https://devfolio.co/projects/roadbase-2f77",
+    "description": "Connecting You to Reliable Rides, One Tricycle at a Time",
+    "author": "Conqueror"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F14dd46e02af04255a985518afbe2ee1e%2Fb628e7d5-46c7-4754-a9d3-dd1fb534730e.jpeg&w=128&q=75",
+    "name": "Ribbon Protocol",
+    "link": "https://devfolio.co/projects/ribbon-protocol-533b",
+    "description": "Personalized Universal Basic Income in USDC on BASE",
+    "author": "Ribbon Protocol"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa4f230a1186b413eaf7ebae8598ea81c%2Faa1cda81-f113-48f0-a843-640a50915a90.jpeg&w=128&q=75",
+    "name": "Base Talents",
+    "link": "https://devfolio.co/projects/base-pathner-419a",
+    "description": "Onchain builders app",
+    "author": "Pathners"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fbf07f9fc30e7446097b244ee8ebd38e0%2F49970ca0-e35b-4c63-8c8c-aab598827dad.jpeg&w=128&q=75",
+    "name": "Based Events",
+    "link": "https://devfolio.co/projects/based-events-7168",
+    "description": "Based Events is an online platform that helps individual or community publicize thier event on social media through a themed design of the event being used as a profile picture or mint as NFT",
+    "author": "Based Events"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Feb937d2b28e04aa985b2c11c56b3d991%2F8654f497-1143-4747-ae06-7b60703bf348.jpeg&w=128&q=75",
+    "name": "Web3School",
+    "link": "https://devfolio.co/projects/webschool-95fb",
+    "description": "Learn, Earn, and Grow with Web3School",
+    "author": "Team Web 3 School"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fd1f69e4410a24ffba923c1f4525d150e%2F61bdc935-20c9-411c-b7eb-792f80d3742a.jpeg&w=128&q=75",
+    "name": "FutureProof",
+    "link": "https://devfolio.co/projects/futureproof-cb15",
+    "description": "FutureProof is a savings platform built on Base to allow users to save in stable cryptocurrencies (USDC, EURC) or crypto assets (cbBTC) and hedge against currency devaluation and inflation.",
+    "author": "Fireside"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F7c2e639812d04a4dbc26960ecac0959d%2F671f400a-5393-480d-8741-56631092e322.jpeg&w=128&q=75",
+    "name": "Credlink",
+    "link": "https://devfolio.co/projects/credlink-c58f",
+    "description": "Decentralized P2P Credit Financing for SMEs",
+    "author": "Credlink"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0b68f83e5a2f41919d1a8bcfe08cb43e%2Fbdd70249-56b5-4e16-8ee7-da81f68e3303.jpeg&w=128&q=75",
+    "name": "Easy Nodes",
+    "link": "https://devfolio.co/projects/easy-nodes-8565",
+    "description": "Start a BASE Node in 10 seconds via a Telegram bot!",
+    "author": "Akinbol"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F8a6e3856c19d4556a4ed0a81505b0151%2F94cc434c-f431-471e-834e-25bcade38cd5.jpeg&w=128&q=75",
+    "name": "Trust Fund",
+    "link": "https://devfolio.co/projects/livewallet-4a7b",
+    "description": "A decentralized savings platform that empowers individuals to securely build wealth and earn rewards.",
+    "author": "Trust Fund"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F52aa174582c644f981e7e141625d89c4%2Fdfe67ba2-5e28-4191-8433-8e86c7f3afa8.jpeg&w=128&q=75",
+    "name": "Ardhi Onchain",
+    "link": "https://devfolio.co/projects/land-registry-onchain-afa5",
+    "description": "The Onchain Land Ownership Verification System aims to solve land ownership disputes by creating a transparent, tamper-proof platform for registering land deeds on the blockchain.",
+    "author": "Ian"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1d61114cb8c04d7fab4cdfd676c97906%2F2a0172df-a7f3-41e4-9f61-684f895ed293.jpeg&w=128&q=75",
+    "name": "Distant finance",
+    "link": "https://devfolio.co/projects/distant-finance-9e66",
+    "description": "Bridging the world  of NFTs and decentralised finance",
+    "author": "DistantLab"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F007245b3517e43eb8fec0053c3154dd6%2F1c7384a9-6cbc-4b5c-8bee-187e39e30acd.jpeg&w=128&q=75",
+    "name": "AuctionMarket",
+    "link": "https://devfolio.co/projects/auctionmarket-815e",
+    "description": "Revolutionizing sales through decentralized, transparent, and secure auctions.",
+    "author": "Jovells"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1045f945bd74464c9dfbb719b660a570%2F2423a5c9-815c-4fc1-b0f5-3a792e4b1749.jpeg&w=128&q=75",
+    "name": "Lumina",
+    "link": "https://devfolio.co/projects/lumina-81a0",
+    "description": "Empower Africa : Knowledge Onchain",
+    "author": "lumina"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa5b30dac192e4e3a8dcbe4a7edd539b7%2F6503a0f8-54ce-4d22-b162-2e6f3ac84006.jpeg&w=128&q=75",
+    "name": "It is called CRYTOVERSE",
+    "link": "https://devfolio.co/projects/it-is-called-crytoverse-db5a",
+    "description": "CrytoVerse is a decentralized, blockchain-powered platform designed to educate beginners, intermediates, and advanced learners about Web3, cryptocurrency, and blockchain technology.",
+    "author": "CryptoVerse"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fc1199e958c4f45dca08fc448dfa5f753%2Fe9c14040-5243-4c42-b4ca-33ae835e6f93.jpeg&w=128&q=75",
+    "name": "54",
+    "link": "https://devfolio.co/projects/-9528",
+    "description": "The Savings and Investment app for Zimbabwe and Africa built on Base",
+    "author": "Kuzivakwashe"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Ff6318aab563a47a68f0f2ed435e5deda%2Ffc281531-a2f8-43be-a3c6-349b9181b63c.jpeg&w=128&q=75",
+    "name": "FreelanceChain",
+    "link": "https://devfolio.co/projects/chainflix-d0e8",
+    "description": "FreelanceChain is a decentralized platform designed to empower designers by enabling them to showcase their work, connect with clients, and receive secure payments—all within a trustless, blockchain",
+    "author": "Godfred"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fcd73dd04897d4491a2201a27ec0f5d7c%2Fd80f1d1e-771f-4ac4-a709-e9e0751a4f85.jpeg&w=128&q=75",
+    "name": "TicTacToeBase",
+    "link": "https://devfolio.co/projects/baseonchain-game-tictactoe-748d",
+    "description": "Play Tic-Tac-Toe on the Base Blockchain",
+    "author": "Zee"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fba63ded5db4743ad853c3af1065b9ad3%2Fcba64384-65f8-4a41-9bea-9d0bb4b22c3b.jpeg&w=128&q=75",
+    "name": "zLend",
+    "link": "https://devfolio.co/projects/qloans-f9e0",
+    "description": "zLend is a decentralized lending platform offering collateralized and uncollateralized loans, combining Zero Knowledge Proofs with Web3 activity to create fair, cash flow-based lending for African use",
+    "author": "Yinka"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fda58be8482ff4b8fae4ecc9107d8c3a6%2F44b2fd63-08c7-4641-b61b-2e977afe7229.jpeg&w=128&q=75",
+    "name": "Basefit",
+    "link": "https://devfolio.co/projects/basefit-25d0",
+    "description": "A decentralised fitness rewards platform bringing together individual fitness tracking, community challenges, and charity-based fitness events",
+    "author": "Basefit"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1d1587a0f1b1497aac9a5df8ffee2fd0%2Ffdf973c1-c9d5-4cb1-8dda-efa90be23cc5.jpeg&w=128&q=75",
+    "name": "Zend",
+    "link": "https://devfolio.co/projects/zend-c641",
+    "description": "Making crypto easy for Africa—send and receive with just an email or basename.",
+    "author": "Zend"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F032a7ca332034b0e9714efcefcb31eac%2Fb927869c-077f-430e-922b-4f4366e04e78.jpeg&w=128&q=75",
+    "name": "Love-Onchain",
+    "link": "https://devfolio.co/projects/loveonchain-8457",
+    "description": "Your Gateway to Web3 Dating",
+    "author": "Patience"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F80ce78abf4aa44279fcb9a0eaf8c66d3%2Fce389795-ce61-40bb-8c0f-729f8be543fb.jpeg&w=128&q=75",
+    "name": "Blockguard",
+    "link": "https://devfolio.co/projects/blockguard-6258",
+    "description": "Building Trust Through Transparency.",
+    "author": "Blockguard"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F57b5dcc10ca74e428e785373105d4f48%2F152855f2-58e1-40b2-87f2-762b8d320ad0.jpeg&w=128&q=75",
+    "name": "SafeHavenDAO",
+    "link": "https://devfolio.co/projects/safehavendao-fac8",
+    "description": "\"Empowering refugees with decentralized identity and financial autonomy.\"",
+    "author": "Kevin"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F7265b3098c974fe29b2ea11691b3fdf2%2F18c367ce-8aa9-4e84-830e-ec4fdd485892.jpeg&w=128&q=75",
+    "name": "Rangi Chanya",
+    "link": "https://devfolio.co/projects/soko-chanya-a5e5",
+    "description": "An immersive IRL event merging public art with AR, empowering artists to reach global markets through virtual marketplace, and onboarding local vendors to the Base ecosystem with USDC payments.",
+    "author": "Afro-Guardians"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fd6fd12ae8b824a678448cd36f4d02b33%2F506650d7-d9d2-4664-885f-f9ed75d8edca.jpeg&w=128&q=75",
+    "name": "MQR Pay",
+    "link": "https://devfolio.co/projects/sakaxchange-4442",
+    "description": "Buy base ETH directly from M-Pesa and link your smart wallet with AI via WhatsApp for instant transaction notifications and updates. Experience seamless and secure crypto transactions today!",
+    "author": "Emmanuel"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F56f5ec05fde34e5f87cdb424566c92a4%2Fd7712528-b122-4a1e-b092-80adbe9d7cca.jpeg&w=128&q=75",
+    "name": "PamojaFI",
+    "link": "https://devfolio.co/projects/pamojafi-dcd7",
+    "description": "Empowering Farmers with Community-Driven Decisions and Resource Allocation through Blockchain.",
+    "author": "PamojaFi"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F475ed217bcc14d1aab201c16ba9c3250%2Fd2fa4df8-54f9-429e-9559-81fe75ae29c5.jpeg&w=128&q=75",
+    "name": "EventTicketing",
+    "link": "https://devfolio.co/projects/eventticketing-84e4",
+    "description": "DappEventX is a decentralized event management platform built on the Ethereum blockchain. It allows users to create, update, and delete events, as well as purchase, refund, and mint NFT-based tickets",
+    "author": "Muhangi"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F4784acd7713d4f0fb501fc61c0c2a099%2Fc22b1f40-a531-4d6c-8689-b84c1271a32a.jpeg&w=128&q=75",
+    "name": "CrowdBase",
+    "link": "https://devfolio.co/projects/crowdbase-3134",
+    "description": "CrowdBase is a platform that enables anyone to create, fund, and complete impactful projects—whether it's rebuilding schools, fixing roads, or supporting grassroots movements.",
+    "author": "Stanley"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F070b3825776d4e879e225e8d4a3d5ba0%2F6ce4c788-1371-4f57-849c-dc1771d2edec.jpeg&w=128&q=75",
+    "name": "LearnWeb3Js",
+    "link": "https://devfolio.co/projects/learnwebjs-0ab7",
+    "description": "Bringing JS Devs On-Chain",
+    "author": "Richard"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F4658bf2106a544dea74ed35f3cc596d5%2Fa449b406-ba96-4ff4-af16-b18352c43e14.jpeg&w=128&q=75",
+    "name": "Basearps",
+    "link": "https://devfolio.co/projects/basearps-fb4d",
+    "description": "A hub to solve most of common Africa problem",
+    "author": "Opeyemi"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa6a69afdca7a43318bcf232b3cb5ca93%2F40c44ef5-b590-4a5a-86a2-436a1052a3ee.jpeg&w=128&q=75",
+    "name": "Secure Data",
+    "link": "https://devfolio.co/projects/secure-data-ff2b",
+    "description": "Secure data, clean data",
+    "author": "Web3 Titans"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F6712119fea734a07827c4cdf72a0b16f%2F6e434c8a-ee4a-4c38-ad90-7a9094847807.jpeg&w=128&q=75",
+    "name": "MyriadFlow Elevate",
+    "link": "https://devfolio.co/projects/myriadflow-elevate-d118",
+    "description": "Empowering grassroots creators with zero upfront costs to elevate their brands onchain",
+    "author": "MyriadFlow"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F13c4b42b8f1e4e3cbb0a29b76b4306dd%2Feb27f68e-18bd-4e97-9d0f-74158f1fd48c.jpeg&w=128&q=75",
+    "name": "INK",
+    "link": "https://devfolio.co/projects/ink-0811",
+    "description": "Inflation-linked token, a true stablecoin for African countries",
+    "author": "Michael"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F3de1dde5561a4a04a18d202779525f83%2F58e6f432-0945-4b1c-b7bc-744933112401.jpeg&w=128&q=75",
+    "name": "Bloclance",
+    "link": "https://devfolio.co/projects/bloclance-8358",
+    "description": "Empowering Africa's Freelancers with Blockchain Efficiency",
+    "author": "Bloclance Team"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F3dc3f8af9b814660ae4a9bd3ec949b52%2F18022744-6fd9-4ffc-a351-64d09fdc293b.jpeg&w=128&q=75",
+    "name": "BaseBet Market",
+    "link": "https://devfolio.co/projects/basebet-market-8054",
+    "description": "Bet on base for fun.",
+    "author": "Blocktrainlabs"
+  },
+  {
+    "image": "Image not found",
+    "name": "Eco Supply",
+    "link": "https://devfolio.co/projects/eco-supply-523f",
+    "description": "Eco Supply transforms supply chain management using blockchain technology to enhance transparency, efficiency, and trust.",
+    "author": "Aliyu Anate"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F025bce546c8646ccb48c5543853ce4e2%2F2e9f728b-6e43-4b11-8709-1e268ba5a302.jpeg&w=128&q=75",
+    "name": "GreedyPig",
+    "link": "https://devfolio.co/projects/greedypig-66a4",
+    "description": "A blockchain-based game of greed, luck, and strategy—claim rewards or risk it all in Greedypig",
+    "author": "Justin"
+  },
+  {
+    "image": "Image not found",
+    "name": "HelloBaseNFT",
+    "link": "https://devfolio.co/projects/hellobasenft-8597",
+    "description": "Mint your first \"Hello World\" NFT on the Base blockchain – a fun and easy way to get started with Web3.",
+    "author": "Kamepl"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "ArtConnect",
+    "link": "https://devfolio.co/projects/artconnect-6be5",
+    "description": "Empowering Artists, Simplifying Blockchain",
+    "author": "Joel"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "SuperBase",
+    "link": "https://devfolio.co/projects/superbase-1965",
+    "description": "Recieve youtube superchats instantly in your base wallet, no 30% youtube cut, no delayed payout!",
+    "author": "Winner"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F9815f3befaf04418a9ddba8e20c0da1a%2Fc84ad1c8-54ef-41c7-bbd3-1330c0dd2617.jpeg&w=128&q=75",
+    "name": "Reign Protocol",
+    "link": "https://devfolio.co/projects/reign-protocol-799b",
+    "description": "Reign Protocol provides decentralized credit access to small and medium-sized businesses, using blockchain to eliminate traditional lending barriers and promote financial inclusion globally.",
+    "author": "Deogracious"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F39c99a072e71406983b438462e79564e%2Fec0c880d-24b5-4e91-b416-83cca6aba141.jpeg&w=128&q=75",
+    "name": "E-VOT",
+    "link": "https://devfolio.co/projects/evot-37b8",
+    "description": "Revolutionizing Electoral Process in Nigeria",
+    "author": "E-Vot"
+  },
+  {
+    "image": "Image not found",
+    "name": "collins base - bnb bridge",
+    "link": "https://devfolio.co/projects/collins-base-bnb-bridge-ae0e",
+    "description": "creating a local bridge between base and binance smart chain",
+    "author": "Adeyemi"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe67899d4c2d94de19b6ed74236aec82c%2F7b7fa611-3549-434e-8cb8-dd652deeb16c.jpeg&w=128&q=75",
+    "name": "Kimiko",
+    "link": "https://devfolio.co/projects/kimiko-5d09",
+    "description": "An on-chain version of local markets where individuals, entrepreneurs, and businesses can connect with potential customers and buyers of their products while receiving payments in cryptocurrency",
+    "author": "J"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F4f3c2a53e71a461a989c25eb95884fd8%2F94968e3b-dca1-4cd2-816c-049b42d1f3df.jpeg&w=128&q=75",
+    "name": "DE DOCTOR",
+    "link": "https://devfolio.co/projects/medledger-0861",
+    "description": "Effortlessly locate and reach out to the healthcare professionals who can assist you with your health concerns.",
+    "author": "The algorithm squad"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F26e7d89216ee4876956c78b291ce3d6a%2F5ce4b50c-3195-4a36-acc1-27e39a86c102.jpeg&w=128&q=75",
+    "name": "PlanetPal",
+    "link": "https://devfolio.co/projects/planetpal-34ac",
+    "description": "Powering Eco-Friendly Campaigns",
+    "author": "PlanetPal"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F3b46e8c6b340452dbf647bb723baf6c9%2Fc4231ae5-fc0f-47cd-9d69-63a55c8a67ef.jpeg&w=128&q=75",
+    "name": "ChainWave",
+    "link": "https://devfolio.co/projects/chainwave-3d0c",
+    "description": "Streamline Your Token Distribution",
+    "author": "Chain Wave"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0acce7f751364991a48abeddf71fc377%2Fc4f4f2b5-0e76-4c12-84a9-e765fa87149b.jpeg&w=128&q=75",
+    "name": "Pronouns",
+    "link": "https://devfolio.co/projects/pronouns-2db3",
+    "description": "IRL community outreach and onboarding to the onchain economy using base blockchain and existing tools ;coinbase wallet,basenames,Usdc on base with Moai cash.",
+    "author": "Pronouns"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "NonceSign",
+    "link": "https://devfolio.co/projects/chainsign-37ba",
+    "description": "NonceSign is redefining secure, tamper-proof e-signature/document management on the Base blockchain. Built for the high-stakes world of digital agreements.",
+    "author": "HAMID"
+  },
+  {
+    "image": "Image not found",
+    "name": "HubTicketing",
+    "link": "https://devfolio.co/projects/hubticketing-cbd3",
+    "description": "Verifiable credentials",
+    "author": "Fidel"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Feb937d2b28e04aa985b2c11c56b3d991%2F8654f497-1143-4747-ae06-7b60703bf348.jpeg&w=128&q=75",
+    "name": "Web3School",
+    "link": "https://devfolio.co/projects/webschool-95fb",
+    "description": "Learn, Earn, and Grow with Web3School",
+    "author": "Team Web 3 School"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "IRL Africa",
+    "link": "https://devfolio.co/projects/irl-africa-110c",
+    "description": "the live music revolution powered by the blockchain",
+    "author": "ubun"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "DE-MIXER",
+    "link": "https://devfolio.co/projects/demixer-afee",
+    "description": "The first Mixer dapp that swaps tokens and distributes to multiple wallets in one transaction, on base blockchain powered by zk snarks to bring anonymity on a public ledger",
+    "author": "Uriel"
+  },
+  {
+    "image": "Image not found",
+    "name": "zk-elect",
+    "link": "https://devfolio.co/projects/zkelect-24c3",
+    "description": "fair decision making",
+    "author": "Jill"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F9d2a4c4e84b043609b5f167d736fce4f%2F7a5f448a-6ae4-470f-875d-c7404df001e8.jpeg&w=128&q=75",
+    "name": "Sing",
+    "link": "https://devfolio.co/projects/sing-1c00",
+    "description": "this is a poem",
+    "author": "Divine"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F79e0fcc82eea4e9c8017aea5e6a5d63a%2F6b1d6d75-1259-4759-9ff3-1e63187d27c1.jpeg&w=128&q=75",
+    "name": "SavvyCircle",
+    "link": "https://devfolio.co/projects/savvycircle-9bf1",
+    "description": "Empowering African Businesses through Decentralized Savings & Lending",
+    "author": "Tss"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe9c2fef8b60b4273bdb3dc8d6aa81cf6%2F3a05d200-acd5-4bc3-984d-d84cd22bc624.jpeg&w=128&q=75",
+    "name": "NairaToCrypto",
+    "link": "https://devfolio.co/projects/nairatocrypto-8a44",
+    "description": "Instantly convert your naira to crypto with a simple bank transfer—no P2P, no delays.",
+    "author": "Taofeek"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F7a443178e39f4f5cbfce027571b60156%2Fa242f6ec-6149-47a4-9ede-c7275a8a2530.jpeg&w=128&q=75",
+    "name": "TokenMultiSender Tools",
+    "link": "https://devfolio.co/projects/basetoken-bulksender-b0dc",
+    "description": "Batch Send Tokens Effortlessly on Base",
+    "author": "Base Azure"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fdd4bbbbd8f46419ebf0392d4c96736ac%2F3b61de83-0388-4d94-b733-1153f50b6e87.jpeg&w=128&q=75",
+    "name": "Scrowed : Decentralized P2P Trading",
+    "link": "https://devfolio.co/projects/scrowed-ef5f",
+    "description": "Buy and Sell Crypto Securely with Decentralized Escrow on Base and across other Blockchain Networks",
+    "author": "Scrowed"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F63b3e20793ca432b94bb3f8dbd8e3989%2F299b67de-3443-4c60-a3d2-477130c8b8a7.jpeg&w=128&q=75",
+    "name": "Declanwork",
+    "link": "https://devfolio.co/projects/declanwork-a298",
+    "description": "Declanwork is a global talent network, powered by base to bring jobbers onchain to global opportunities.\nFind talent. Get work. Build your future onchain with Declanwork.",
+    "author": "Declanwork"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F8c306afd0707405aa8db022c1f02f27f%2Fcbb47f57-3c21-4a84-9568-acddc4cab600.jpeg&w=128&q=75",
+    "name": "SmartGame",
+    "link": "https://devfolio.co/projects/smartbet-86a3",
+    "description": "SmartGame: Revolutionizing Gaming with Security, Fairness, and Global Accessibility.",
+    "author": "SmartBet"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe0cd45cbfa8640ad8e3779507eddfded%2F0d83dbd4-acdd-4727-928e-93878f140384.jpeg&w=128&q=75",
+    "name": "NfTicket",
+    "link": "https://devfolio.co/projects/nfticket-0c2d",
+    "description": "Own Your Tickets, Own the Experience.",
+    "author": "NfTicket"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F037abb2259d445db9690dc180a0f79ac%2F2163eb96-cbfb-443a-8be9-673753c54ae1.jpeg&w=128&q=75",
+    "name": "BaseRL",
+    "link": "https://devfolio.co/projects/baserl-d052",
+    "description": "Run base dapps on any web environment similar to solana blinks/actions. Shopping, donation, portfolio, review, payment etc. Anywhere you can share a link, Base Dapps can live there!",
+    "author": "George"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F45a3e258e4d3463ab2a839e1bdc13c16%2F771ce4ba-d38a-4cbf-a868-914847d12575.jpeg&w=128&q=75",
+    "name": "Art-@-base",
+    "link": "https://devfolio.co/projects/artbase-eaf3",
+    "description": "Art-@-base, bringing  the artistic leaders of tomorrow on chain",
+    "author": "Art-@-base"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Ff744a18b13a94ced8da5eb5f8cb9fef2%2F2054aa4c-3a25-4f49-ba9b-155cfbfef791.jpeg&w=128&q=75",
+    "name": "Circles",
+    "link": "https://devfolio.co/projects/circles-42b8",
+    "description": "Save Together, Secure Savings On-Chain!",
+    "author": "Circles"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe6c3a8f622c943a8864ce3ff4cfab0e9%2Ffb40edd6-f59b-4654-a420-0cd855883860.jpeg&w=128&q=75",
+    "name": "AgriLoom",
+    "link": "https://devfolio.co/projects/agriloom-ebb3",
+    "description": "Bridging Farmers & Buyers Through Blockchain for Fair Trade and Sustainable Agriculture",
+    "author": "AgriLoom"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F794dd60348b24fbe80b83d8af4b2d79e%2F448927d3-e815-458c-a733-317e96de0de1.jpeg&w=128&q=75",
+    "name": "BaseConnect Africa",
+    "link": "https://devfolio.co/projects/baseconnect-africa-710f",
+    "description": "Empowering Africa’s Blockchain Future Through Education and Innovation.",
+    "author": "BitKE"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F8e6f5282da824cc08c34712989df6563%2F8ea2108d-de44-4df9-8597-7afb488f161c.jpeg&w=128&q=75",
+    "name": "Ìtàn World: African Art On-Chain",
+    "link": "https://devfolio.co/projects/itan-world-african-art-onchain-3846",
+    "description": "Empowering African artists through on-chain art sales, preserving cultural stories on the Base ecosystem",
+    "author": "SierraRenee"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0602aceac0b64e1b8246358ecd1e78ad%2F0cb9718c-fd06-4653-b9db-04f39fd173f9.jpeg&w=128&q=75",
+    "name": "Space Shooters",
+    "link": "https://devfolio.co/projects/space-shooters-5a86",
+    "description": "Get onboarded to the Base Blockchain through a simple and interactive game interface",
+    "author": "Space Shooters"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa7cb9ea69a174902910eb79b4648dcba%2Fe60f9612-09c1-4add-89a9-9de22e9e6b49.jpeg&w=128&q=75",
+    "name": "Strimz",
+    "link": "https://devfolio.co/projects/strimz-16e4",
+    "description": "A token streaming platform",
+    "author": "STRIMZ"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F5c59b0e2cc9547feb169e05c44a0df96%2Fe8023658-8e3e-4db8-859d-2e540bd2a64b.jpeg&w=128&q=75",
+    "name": "Dream NFT",
+    "link": "https://devfolio.co/projects/packets-40d4",
+    "description": "Collaborate, Create, and Earn in Africa's Digital Art Revolution",
+    "author": "DreamNFT"
+  },
+  {
+    "image": "Image not found",
+    "name": "OptimizeGaz",
+    "link": "https://devfolio.co/projects/optimizegaz-92ef",
+    "description": "A simple tool to track and optimize gas fees on the Base blockchain for more cost-efficient transactions.",
+    "author": "Berserk"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Faf9198918d1f42819e840e4c7e4fe0c1%2F9ef2bce8-cd74-4233-bb96-3319dd9b3964.jpeg&w=128&q=75",
+    "name": "Element Pay",
+    "link": "https://devfolio.co/projects/element-pay-1d6c",
+    "description": "ElementPay is a decentralized onramp/offramp platform built on Base. Our platform allows users to make seamless crypto-to-fiat micropayments and vice versa for their daily transaction e.g USDC to KES",
+    "author": "ELEMENT"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F3852e52fdf0e4bb387c7382f7978adff%2Ff416c50b-f859-4608-b8ec-e56de50c7a5e.jpeg&w=128&q=75",
+    "name": "TokenPlay",
+    "link": "https://devfolio.co/projects/tokenplay-2869",
+    "description": "Powering the Next Generation of In-Game Assets.",
+    "author": "GLEN"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F52a1548ca7934328ab29991e3807ab96%2F12a94898-40c1-4a8b-8da0-ec3bd91974fa.jpeg&w=128&q=75",
+    "name": "Zerokoin",
+    "link": "https://devfolio.co/projects/zerokoin-f840",
+    "description": "We empower Africans and Small businesses with access to the crypto economy and global opportunities",
+    "author": "Zerokoin"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F75fe811e5b354c4b80fbebba7147547c%2F65038b3c-2f37-4d8b-a5e4-a0c7d0c0a20a.jpeg&w=128&q=75",
+    "name": "Quantum Protocol Kenya",
+    "link": "https://devfolio.co/projects/quantum-protocol-1972",
+    "description": "Quantum is a financial protocol aiming to increase financial inclusion, participation, easy user onboarding to the world of web3.",
+    "author": "Quantum Protocol"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fb81ccde8f1dd46afa7b13d509afda2b5%2F33928a50-38ee-41e4-994b-39195df59209.jpeg&w=128&q=75",
+    "name": "Rwandr",
+    "link": "https://devfolio.co/projects/rwandr-1d34",
+    "description": "Feel Da Money:\n\nA Real World Asset Money Protocol That Makes Crytpo Indistinguishable From Money.",
+    "author": "Lemuel"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F14073388f74643b99c0b184430166b79%2Fab6ddc2e-0e5a-4c69-8e83-106e511e21eb.jpeg&w=128&q=75",
+    "name": "TradeBridge",
+    "link": "https://devfolio.co/projects/tradebridge-c66a",
+    "description": "Decentralized Commodity Marketplace",
+    "author": "Tradebridge"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fdfb362f28daf4a34bdc0583bc387e616%2F8dbc97bb-115b-4b7d-b20b-307f99eefee1.jpeg&w=128&q=75",
+    "name": "Cre8ify",
+    "link": "https://devfolio.co/projects/creify-26ef",
+    "description": "Decentralized Content Creators Platform",
+    "author": "Cre8ify"
+  },
+  {
+    "image": "Image not found",
+    "name": "Base Testnet Faucet",
+    "link": "https://devfolio.co/projects/base-testnet-faucet-279a",
+    "description": "A simple faucet for developers to easily request testnet tokens on Base.",
+    "author": "Crypto"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0b7c8f5c2cd24c25878c195b47ec506d%2Fb5621897-73ec-4cf5-91a8-43fb9c1d063a.jpeg&w=128&q=75",
+    "name": "Choose web3 Media",
+    "link": "https://devfolio.co/projects/choose-web-media-9e50",
+    "description": "Building the healthiest web3 community in Africa.",
+    "author": "Choose web3 Media"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Ff25e149f34f54be3bf2a70b95c2f6cc9%2F551e17f7-310f-4830-ab9f-cfc96f17d3c7.jpeg&w=128&q=75",
+    "name": "Assets Access",
+    "link": "https://devfolio.co/projects/assets-access-d746",
+    "description": "Democratizing global property ownership",
+    "author": "AssetsAccess-Generals"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F8eb7c1585a1f4cb88eb74023436e1639%2F611cb6ef-3717-40e6-b534-3586553494d2.jpeg&w=128&q=75",
+    "name": "The Baseline",
+    "link": "https://devfolio.co/projects/base-connect-1997",
+    "description": "Bringing More Africans Onchain",
+    "author": "B & K"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1902c99da6a7448489ebe040d19d8000%2F9c4c8514-86b8-4e37-8169-5e6be36489ee.jpeg&w=128&q=75",
+    "name": "Museum3",
+    "link": "https://devfolio.co/projects/museum-5de0",
+    "description": "Museum3 is an innovative digital platform that uses the Base blockchain to facilitate remote access to African museums. Focused initially on prominent museums in Nigeria and Egypt.",
+    "author": "Augustine"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1d34b5d9ab32457695c92a9644c31833%2F4611c18f-3596-4887-a983-3be2e427cacb.jpeg&w=128&q=75",
+    "name": "Gobox",
+    "link": "https://devfolio.co/projects/goboz-a28c",
+    "description": "building Gobox a decentralized eTicketing dApp that leverages blockchain technology to provide secure tickets",
+    "author": "GOBOX TEAM"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe6459cd6d6c64d1db7d2a3270a676a19%2F9663adc4-e271-4f94-aa09-9329c46fbeca.jpeg&w=128&q=75",
+    "name": "Dexapay",
+    "link": "https://devfolio.co/projects/dexapay-dd4e",
+    "description": "Seamless, Secure Payments via Email – Send, Request, and Fundraise with Ease",
+    "author": "Joel"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1f3ce004145b494192bc8707c1e88c04%2F431d23e1-d467-499c-a2ee-6d92bbdf188c.jpeg&w=128&q=75",
+    "name": "PayFlip",
+    "link": "https://devfolio.co/projects/payflip-4245",
+    "description": "Flip the script on payments: local currency in, stablecoins out with PayFlip.",
+    "author": "PayFlip"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa248e06f77624ceeb116988f1e6e7691%2F5ec4bed9-e4fa-46ed-9ce2-29faa8293e63.jpeg&w=128&q=75",
+    "name": "Basememe",
+    "link": "https://devfolio.co/projects/basememe-9617",
+    "description": "An Africa meme token launchpad focused on preventing rug pulls by implementing security measure, and liquidity locking mechanism. The platform emphasizes community governance, users can vet projects.",
+    "author": "basememes"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F26ec09cf98914e17a9afda00bc821dd1%2F14269fc9-f6a2-4c37-9474-5a3df52676fc.jpeg&w=128&q=75",
+    "name": "Sebore",
+    "link": "https://devfolio.co/projects/sebore-a8f1",
+    "description": "An Agricfi e-commerce dashboard",
+    "author": "Ifeoluwa"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fprojects%2Fd502934f209f4de7a6f2bb332fcb1077%2F3ed77e30-5b90-4606-a443-5864029983da.jpeg&w=128&q=75",
+    "name": "FarmBase",
+    "link": "https://devfolio.co/projects/farmbase-b12a",
+    "description": "FarmBase is a platform connecting farmers globally. It allows them to advertise their produce for purchase using cryptocurrency, enhancing accessibility and secure transactions.",
+    "author": "BaseCrew"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fef25907c0bd54d2eba3599955b4999d1%2Fc72819f1-5d6c-4bcd-aad9-c19eef824a91.jpeg&w=128&q=75",
+    "name": "Basepay",
+    "link": "https://devfolio.co/projects/basepay-df80",
+    "description": "Bringing your bank or mobile money account onchain with linked addresses",
+    "author": "Paycrest"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa4e039c424e74969a3b29c4746187f1a%2F4dec27d5-86f4-4abb-9ca9-f51a07353fb9.jpeg&w=128&q=75",
+    "name": "Aiding Onchain Adoption Locally Via Onchain Tools",
+    "link": "https://devfolio.co/projects/aiding-onchain-adoption-locally-via-onchain-tools-9024",
+    "description": "People go for tools or platforms they understand especially if it has more to offer. This is why I'm taking Onchain tools to meet them where they are. Base is for everyone.",
+    "author": "Juliet"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F6f2b2127205840208e3ae7563592c67a%2F75b551db-3527-4280-a056-825fb86d8724.jpeg&w=128&q=75",
+    "name": "Kombat",
+    "link": "https://devfolio.co/projects/kombat-f143",
+    "description": "A secure, decentralized platform for wagers and prediction markets.",
+    "author": "Kombat"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fdef633405f954548b3f0bd4d399eb9f9%2F0fd1632d-0363-4357-9365-a5e341afb4d7.jpeg&w=128&q=75",
+    "name": "DeGrid",
+    "link": "https://devfolio.co/projects/degrid-f82b",
+    "description": "DeGrid is a decentralized power distribution platform, where alternate power producers can vend the excess energy they generate to users in their proximity who need power suplly.",
+    "author": "CodeQuest"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F8b12a9b1b7324fb0945d064ff53ef04d%2Fd3e59aae-6bad-4a69-ad58-0d85adbc71d8.jpeg&w=128&q=75",
+    "name": "BaseSpace",
+    "link": "https://devfolio.co/projects/basespace-ac6b",
+    "description": "BaseSpace is a Platform (Twittter page and Telegram bot) that showcase events within the Base ecosystem, both virtual and physical, globally. It helps users discover events, and set reminders",
+    "author": "BaseSpace"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F7e6df126d41c40a3be0dab200b78d101%2F400c3ffa-264b-4a1a-bc76-5fc8c1871beb.jpeg&w=128&q=75",
+    "name": "The Robotic Farmer",
+    "link": "https://devfolio.co/projects/the-robotic-farmer-07e7",
+    "description": "Our project aims to revolutionalize agriculture by merging robotics with blockchain technology. Bringing man and machine on-chain, one farm at a time!",
+    "author": "Innovator Crew"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe4e01ef7705748359e4be164c657e566%2F410e97a0-249a-4478-8b9c-33e43d43716c.jpeg&w=128&q=75",
+    "name": "Pepper",
+    "link": "https://devfolio.co/projects/pepper-the-liquidity-super-app-0f9e",
+    "description": "Pepper is a Web 3 SuperApp on Base, offering multi-fiat stablecoins, crypto-backed lending, derivatives and spot trading, and a predictions market.",
+    "author": "Pepper"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fb71f4106b08b4cb1a06219ec14eacf09%2F1b6320d3-07c9-4ea7-abba-718f17cd8ae8.jpeg&w=128&q=75",
+    "name": "Start3",
+    "link": "https://devfolio.co/projects/start-9767",
+    "description": "Onboarding the Next Billion Users into Web3. Our AI-powered platform simplifies the transition into Web3 by providing personalized onboarding flows that use natural languge to interact on-chain.",
+    "author": "START3"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "AfriSeed",
+    "link": "https://devfolio.co/projects/afriseed-8d62",
+    "description": "A decentralized crowdfunding platform on the Base network, empowering African entrepreneurs to secure funding for innovative small business ideas.",
+    "author": "ICON0X"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "StableFlow",
+    "link": "https://devfolio.co/projects/stableflow-f4d7",
+    "description": "Accept USDC as a business owner and keep track of sales.\nFiat(naira) payouts coming soon.",
+    "author": "StableFlow"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "AfroBase Team",
+    "link": "https://devfolio.co/projects/afrobase-team-df70",
+    "description": "Bringing people Onchain through the vibrant culture and dance of the Yoruba land.",
+    "author": "AfroBase Team"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "9ja Onchain",
+    "link": "https://devfolio.co/projects/y-4998",
+    "description": "Bridging dreams to reality",
+    "author": "NAIJA ONCHAIN"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Mint Hub",
+    "link": "https://devfolio.co/projects/mint-hub-d5b3",
+    "description": "Mint Hub is a user-friendly NFT marketplace that empowers artists to mint and sell unique digital assets while providing collectors with seamless access to one-of-a-kind creations.",
+    "author": "David"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Delar",
+    "link": "https://devfolio.co/projects/delar-94c5",
+    "description": "The Decentralized Land Registry leverages blockchain technology to create a transparent, secure and immutable record of land transactions.",
+    "author": "Delar"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F208177be145e4f52ab4730ee362f3e33%2Fdf7305fa-1791-44d1-8431-59f43fa9a77e.jpeg&w=128&q=75",
+    "name": "Afida",
+    "link": "https://devfolio.co/projects/afida-b334",
+    "description": "Decentralized Philanthropy for Transparent Crowdfunding",
+    "author": "Afida"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F392be04d19584af8b35bb877a34c91cf%2F0b2d609d-a530-4b13-9ef2-7be381a3b60d.jpeg&w=128&q=75",
+    "name": "Base Sessions",
+    "link": "https://devfolio.co/projects/base-sessions-f0ae",
+    "description": "Bringing 10,000 music artists and 100,000 of their super fans onchain",
+    "author": "Onchain Music"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fca7947d3113a4eaa96e88f25ee9eabb6%2F79ad5a3c-d171-4619-aa95-dfa5fb15bc76.jpeg&w=128&q=75",
+    "name": "RideBase",
+    "link": "https://devfolio.co/projects/ridebase-d185",
+    "description": "RideBase is an app that uses decentralized identity and payments for ride-booking. Users can sign up using their minted Base names (e.g devvqueenn.base.eth) and can book ride, paying with base eth.",
+    "author": "RideBase"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fab6d274e1b74423986308f38c7902105%2F80cb1700-804a-4484-b2c8-ce57e38910fb.jpeg&w=128&q=75",
+    "name": "OBASED",
+    "link": "https://devfolio.co/projects/obased-e8fd",
+    "description": "GAME STUDIO AND GAME DEV ACADEMY ON BASE",
+    "author": "OBASED"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1977fc21cd464a10b0a4f642cf576b15%2F1717e0d8-7209-4dd9-ac30-83be61c184f0.jpeg&w=128&q=75",
+    "name": "Magic scenes",
+    "link": "https://devfolio.co/projects/bts-scenes-21b6",
+    "description": "This is to use BTS( behind the scenes) magic moments to show people who don't have ideas on how to even start or participate in base Africa buildathon. moments like meetings, building sessions etc.",
+    "author": "Bigbuck"
+  },
+  {
+    "image": "Image not found",
+    "name": "BaseAlert",
+    "link": "https://devfolio.co/projects/basealert-26f1",
+    "description": "\"Real-time alerts for tracking blockchain transactions on Base, bringing transparency and ease of monitoring to the African crypto ecosystem.\"",
+    "author": "Nahanana"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0171a99ac5f34fea9874f8ac9cdc4189%2F5851378a-b14e-4d8b-aca5-c28195282c0a.jpeg&w=128&q=75",
+    "name": "Blocdemia",
+    "link": "https://devfolio.co/projects/blocdemia-450d",
+    "description": "Fun & Interactive onchain education platform with NFT-based certifications.",
+    "author": "Blocdemia Team"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F535102129758422f92d85396ef60e525%2Fb2750821-c791-4729-94c0-78aafb170623.jpeg&w=128&q=75",
+    "name": "CHAINMEDICS",
+    "link": "https://devfolio.co/projects/chainmedics-996b",
+    "description": "Revolutionizing Healthcare with Blockchain Technology",
+    "author": "CHAINMEDICS"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Blockchain Trivia",
+    "link": "https://devfolio.co/projects/blockchain-trivia-8989",
+    "description": "Explore and engage with Web3 trivia questions in a fun and educational way.",
+    "author": "Abduquadri (Bislab)"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Onchain via Base.",
+    "link": "https://devfolio.co/projects/onchain-via-base-bfa2",
+    "description": "A personal journey into DeFi, detailing my seamless experience getting onchain with Base,",
+    "author": "Victor"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1d128d2ecb954dfbada1c363670f6ba7%2Fa7da8d14-3d0a-460c-8814-82157944eaaa.jpeg&w=128&q=75",
+    "name": "Data Bud",
+    "link": "https://devfolio.co/projects/data-bud-edf9",
+    "description": "Explore Base onchain data with natural language.",
+    "author": "Olamide"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F03ec36d7f00648209b43ad15d9250804%2F5ffa7138-de3a-4984-9c63-b3b9dad365ba.jpeg&w=128&q=75",
+    "name": "Base Community Fund",
+    "link": "https://devfolio.co/projects/base-community-fund-b538",
+    "description": "The Base Community Fund is an initiative aimed at giving back to the community via financial assistance focusing on the unemployed individuals who are in debt",
+    "author": "Mushabe"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe28171182e504b659d919d8099691835%2F6e47f6c3-2eba-489d-a4dd-44ba18f27fec.jpeg&w=128&q=75",
+    "name": "Promoat",
+    "link": "https://devfolio.co/projects/promoat-3efb",
+    "description": "Gain access to influencers around the world: promote events, acquire votes, and gain engagements.",
+    "author": "Promoat"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fd745656c386747b1a3f1ed1e721c02ca%2Fa46663ab-0440-4ce3-b636-6689d06bb278.jpeg&w=128&q=75",
+    "name": "Basedx builders community (africa)",
+    "link": "https://devfolio.co/projects/basedx-builders-community-africa-2273",
+    "description": "A telegram community created to educate people about web3 and how to build workable solutions with onchainkit",
+    "author": "Anuoluwapo"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F74de235781c7430797e2fe8c25a0b5ed%2F1ce4a483-f427-4aaf-8395-1d37b78dca3f.jpeg&w=128&q=75",
+    "name": "Airtime Queen",
+    "link": "https://devfolio.co/projects/airtime-queen-6cb6",
+    "description": "Airtime Queen is a smart wallet that empowers African consumers to save money & earn interest, to buy airtime and to access airtime credit.",
+    "author": "Airtime Queen"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F2da9481f60b643638b9cf9c9423093bc%2Fe2e4fd36-b6cf-45ca-91e7-bf1b80ba7786.jpeg&w=128&q=75",
+    "name": "Tanzania Base community",
+    "link": "https://devfolio.co/projects/tanzania-based-community-91b9",
+    "description": "Tanzania Base Community is a dynamic and forward-thinking group focused on educating and creating real life expereinces that bring the Tanzanian community onchain.",
+    "author": "Tanzania base community"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "3 Wheeler Bike Club",
+    "link": "https://devfolio.co/projects/wheeler-bike-club-19e6",
+    "description": "onchain ownership, community & governance for three wheeler bikers.",
+    "author": "3 Wheeler Bike Club"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F27956cfbcf984f5bb5693bc7ddfd918b%2Fa9b59ef5-391c-4953-8521-46a867064628.jpeg&w=128&q=75",
+    "name": "BlockHolder",
+    "link": "https://devfolio.co/projects/blockholder-6b9a",
+    "description": "Secure your financial future with our decentralized saving and investment platform, offering effortless savings, high returns, and full control over your crypto assets. Start growing today!",
+    "author": "WebWork"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "BaseLink",
+    "link": "https://devfolio.co/projects/baselink-af00",
+    "description": "Create free USDT payment links in seconds!",
+    "author": "BaseLink"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Tackling Onitsha's waste problem with Base Tech",
+    "link": "https://devfolio.co/projects/tackling-onitshas-waste-problem-with-base-tech-0ae0",
+    "description": "My project uses blockchain via Base to solve Onitsha’s waste crisis, offering fair pay for collectors and rewarding recycling. Through on-chain governance, i empower the community to manage waste.",
+    "author": "Johnpaul"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Planet Lukukul's Bootcamp",
+    "link": "https://devfolio.co/projects/planet-lukukuls-bootcamp-8738",
+    "description": "We will gather creatives with different expertise together for 2 weeks in a camp with the goal of creating and telling our 3rd story.\nPlanet Lukukul is an experience hub driven by creators.",
+    "author": "aisha"
+  },
+  {
+    "image": "Image not found",
+    "name": "BaseVote",
+    "link": "https://devfolio.co/projects/basevote-96c2",
+    "description": "A decentralized voting platform that enables transparent, token-based decision-making on the Base blockchain.",
+    "author": "Aleks"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F6e07fd693a084e93a0aa3497d4101ace%2Fd3d2ca9d-8ad7-4443-8f5e-f4a7330aaffd.jpeg&w=128&q=75",
+    "name": "Wave Pay",
+    "link": "https://devfolio.co/projects/wave-pay-3457",
+    "description": "Bridging Crypto and Everyday Payments for a Seamless Financial Future",
+    "author": "Nodebloc"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fd8ad98c24d0b4db69c427cfffe59a6d6%2F551f201a-43b2-414d-a9fa-a01a493f66a5.jpeg&w=128&q=75",
+    "name": "Gen-MOM(mind over matters)",
+    "link": "https://devfolio.co/projects/genmommind-over-matters-fc3b",
+    "description": "The generation of balanced mind \n\"Our goal is to help individuals, especially teenagers our age, get support during mental health challenges.\"",
+    "author": "Gen-MOM"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F362dea04d04b4a219f86fee081d997b3%2F9787b3c8-435b-49b9-be9a-3a2dcc1af49b.jpeg&w=128&q=75",
+    "name": "learnOnchain",
+    "link": "https://devfolio.co/projects/base-learn-7633",
+    "description": "Empowering communities to learn and build onchain solutions with LearnOnchain, an LMS platform to foster innovation and bring the next billion users Onchain.",
+    "author": "baseWorkshop"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F77d38b3c31cd4b56965c6bc920509d37%2F87c1f6ca-1f81-45a6-a5b8-bcca3ba36f93.jpeg&w=128&q=75",
+    "name": "Baseurl",
+    "link": "https://devfolio.co/projects/basen-79fc",
+    "description": "BaseURL is a Web2 and Web3 link-in-bio platform for individuals, businesses, and creators to showcase, connect, and monetize via crypto tipping",
+    "author": "BaseUrl"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F3fe9458a4777404d87ecf650d5e10704%2F1c7a9e7c-f78c-43cd-a29a-650583d1b338.jpeg&w=128&q=75",
+    "name": "Lanstellar",
+    "link": "https://devfolio.co/projects/lanstellar-be6f",
+    "description": "LanStellar is a secure and transparent marketplace built on the Base Network for real world asset owners and investors to purchase assets onchain through smart contracts.",
+    "author": "Team X"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0885f54f3d454dedafbbffee0e2bb09a%2Fdbf26c25-de1d-42ec-9d2e-86cc82416675.jpeg&w=128&q=75",
+    "name": "EcoCollect",
+    "link": "https://devfolio.co/projects/ecocollect-1321",
+    "description": "A revolutionary platform that addresses global plastic waste by incentivizing individuals to take action, collecting plastics waste and rewarding them with tokens.",
+    "author": "ByteX"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "BRINGING TOTAL NOVICE ONCHAIN THROUGH EDUCATION",
+    "link": "https://devfolio.co/projects/bringing-total-novice-onchain-through-education-6839",
+    "description": "I have become passionate about using the available resources to teach people about onchain,web3,blockchain, especially teaching them from scratch,it's. Demanding but Its a beautiful project",
+    "author": "Cornelius Ogbogbode"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Against the House!",
+    "link": "https://devfolio.co/projects/against-the-house-4672",
+    "description": "Predict, Play, and Win! Beat the odds in 'Against the House'.",
+    "author": "Emmanuel"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Cheking Machine",
+    "link": "https://devfolio.co/projects/cheking-machine-74ff",
+    "description": "\"Secure your tasks, one block at a time.\" 🚀",
+    "author": "Ib-Halis"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "BaseWatch",
+    "link": "https://devfolio.co/projects/basewatch-b26c",
+    "description": "Empowering citizens to combat illegal activities through blockchain-based reporting and tracking.",
+    "author": "BlockDevs"
+  },
+  {
+    "image": "Image not found",
+    "name": "Vaultt",
+    "link": "https://devfolio.co/projects/vaultt-c49b",
+    "description": "innovative blockchain-based healthcare data management system that revolutionizes how patient health records are securely stored, accessed, and shared across Africa.",
+    "author": "BlockEngine"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Based Scavenger Hunt",
+    "link": "https://devfolio.co/projects/based-scavenger-hunt-85f6",
+    "description": "Explore Lusaka, Discover Base.",
+    "author": "Based"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "BasedtestnetFoundation",
+    "link": "https://devfolio.co/projects/basedtestnetfoundation-82d5",
+    "description": "We’re building a platform where developers can easily access Base testnet resources & also actively contributing to the community.",
+    "author": "BaseBurst"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Transforming Energy Infrastructure in Ugwuakparata",
+    "link": "https://devfolio.co/projects/transforming-energy-infrastructure-in-ugwuakparata-b272",
+    "description": "A decentralized microgrid system using renewable energy and blockchain tech to solve the inconsistent power supply in Ugwuakparata, enhancing community resilience, healthcare, and economic growth.",
+    "author": "Agnes"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Unitoken",
+    "link": "https://devfolio.co/projects/unitoken-e83c",
+    "description": "secure identity, effortless payments",
+    "author": "Unitoken"
+  },
+  {
+    "image": "Image not found",
+    "name": "MetaVote",
+    "link": "https://devfolio.co/projects/metavote-6043",
+    "description": "A decentralized voting platform that ensures secure, gasless, and user-friendly elections.",
+    "author": "UthJoel"
+  },
+  {
+    "image": "Image not found",
+    "name": "55Radio Tour",
+    "link": "https://devfolio.co/projects/radio-tour-e348",
+    "description": "The 55Radio Tour is a dynamic initiative designed to spread the word about Base’s global hackathon. We're hitting the airwaves across key cities to engage developers, and non tech folks.",
+    "author": "55RadioTour"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Carbon Wise",
+    "link": "https://devfolio.co/projects/carbon-wise-e9ac",
+    "description": "Earn Through Real-World Asset Tokenization Of Carbon Credits to Offset Carbon Emissions On Carbon Wise",
+    "author": "Carbon Wise"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F8cd3d84ef66c426693915bcd38ee2194%2F7b25e381-f9a7-47d2-9668-234bf57fe47a.jpeg&w=128&q=75",
+    "name": "CC-Platform",
+    "link": "https://devfolio.co/projects/ccplatform-2805",
+    "description": "Create, Connect, Own",
+    "author": "CTFX"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F515541cce3c8461ea474029d5c1735c3%2Fd77faef1-a6f6-4b17-afa7-ccb6895bc570.jpeg&w=128&q=75",
+    "name": "Propertyproof",
+    "link": "https://devfolio.co/projects/propertyproof-e8a2",
+    "description": "A decentralized platform ensuring secure, transparent, and fraud-proof property ownership through blockchain technology with base layer",
+    "author": "Propertyproof Innovators"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F7efe9ce288c44c8496b90aa25e7f0fa4%2F59444c67-6414-4309-88e5-8479e733ba03.jpeg&w=128&q=75",
+    "name": "Financial Management App",
+    "link": "https://devfolio.co/projects/financial-management-app-05e2",
+    "description": "Your personal finance tracker for better budgeting and spending insights.",
+    "author": "dash"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0babc8fa5bfa4f23b65b1d94ea578af8%2F40cb905c-3734-45ce-ac49-ff89bcb677e0.jpeg&w=128&q=75",
+    "name": "Onboarding people to base",
+    "link": "https://devfolio.co/projects/onboarding-people-to-base-1cfd",
+    "description": "This is a group which I created to enlighten people more about base especially for they elderly one's",
+    "author": "Ezekiel"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fd40f8dd7f8814726950bf03fc9e58965%2F8897ca8c-76c3-4498-9fd3-4080d1eca87b.jpeg&w=128&q=75",
+    "name": "A.Vaults",
+    "link": "https://devfolio.co/projects/avaults-e6a8",
+    "description": "A.Vaults is an on-chain blockchain platform dedicated to promoting African art by empowering art collectors and creators.",
+    "author": "Afolabi"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F2c087915450f4d4a89d44a60d490a0f0%2F7a6b2c08-85ed-4849-af3b-678abcba21f9.jpeg&w=128&q=75",
+    "name": "Home's a Maze (HAM)",
+    "link": "https://devfolio.co/projects/homes-a-maze-ham-4cd7",
+    "description": "Daily 3D maze challenges with a twist—mint your wins onchain.\nHAM's a 3D web game that offers daily casual challenges where players solve a new maze everyday.",
+    "author": "Miracle"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe229bb59b6d14a82b85d6117f4ea46cd%2F9f1f7b4b-9749-4991-a405-c29e4be30b6c.jpeg&w=128&q=75",
+    "name": "DirectPay",
+    "link": "https://devfolio.co/projects/directpay-b6d8",
+    "description": "Instantly convert your stablecoins to Naira with zero hassle, no KYC, no delays, and real-time updates, all through an intuitive Telegram bot.",
+    "author": "Toluwalase"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F3ce579b8544f415a9e7cb4bf12b033ea%2F18f3989f-2966-4aa7-8a22-cd4f62703dc7.jpeg&w=128&q=75",
+    "name": "Whistlechain",
+    "link": "https://devfolio.co/projects/whistlechain-937a",
+    "description": "A decentralized, anonymous, and secure blockchain-based whistleblowing platform where users can report misconduct and assist in investigations.",
+    "author": "Whistleblower"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fb675e1bfc7b5478bbb55d40790bfacd1%2Fdc849312-536e-4d3f-9cb9-16ec906bd3b8.jpeg&w=128&q=75",
+    "name": "Net Base",
+    "link": "https://devfolio.co/projects/net-base-b365",
+    "description": "This platform utilizes the Base blockchain to guarantee secure transactions and transparency, offering a distinctive social experience for film enthusiasts.",
+    "author": "Abdullah"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F5530b8e6aa6a462083771c5ddc1b3980%2F85e7a671-a71b-464c-a085-c1a3c5f1bd2f.jpeg&w=128&q=75",
+    "name": "AGRO BASE",
+    "link": "https://devfolio.co/projects/agro-base-09d0",
+    "description": "An Onchain AgroMarkeplace to buy sell and invest (AgroRWAs, AgroProducts, AgroLands, Agro Jobs, e.t.c)",
+    "author": "AGROBASE"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Ff7efb3bc205f4a79bb1ba492b35d50e2%2Fae467611-c029-4e64-86ff-1957b2c4703f.jpeg&w=128&q=75",
+    "name": "Yield",
+    "link": "https://devfolio.co/projects/yield-4b92",
+    "description": "Revolutionizing agriculture through blockchain and land tokenization.",
+    "author": "Yield"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F5db21fa24cbf4286a43ed009c6392bac%2F42f91ce5-ee89-4f18-a085-5b304b7c767f.jpeg&w=128&q=75",
+    "name": "Postera",
+    "link": "https://devfolio.co/projects/postera-8549",
+    "description": "Postera is a dApp designed to tackle waste management challenges and promote eco-friendly practices by allowing people earn from their trash, starting from our local communities in Lagos, Nigeria.",
+    "author": "TICARCRAW"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fd4350ec58eca4c67a513d9ff31bec156%2F6b5b2c5c-651a-4973-a59c-3777fdf5504b.jpeg&w=128&q=75",
+    "name": "Legitify",
+    "link": "https://devfolio.co/projects/legitify-9f5a",
+    "description": "Trust made simple through verifiable blockchain certificates.",
+    "author": "Legitify"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1ad118aac8f54e87b62610cf4d9ecf55%2F720ccf5c-0555-4058-ab7c-679612ca8e06.jpeg&w=128&q=75",
+    "name": "Brú Finance",
+    "link": "https://devfolio.co/projects/bru-finance-f3dd",
+    "description": "Asset-Backed Bonds on DeFi",
+    "author": "Dhaval"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F31c741b00f08462c8e7b0760c8f0dc88%2F4bc4a23d-2332-47f8-a964-1042a694e50a.jpeg&w=128&q=75",
+    "name": "TriviaBase",
+    "link": "https://devfolio.co/projects/triviabase-4524",
+    "description": "A Platform Where Web3, Learning, and Gaming Unite for an Engaging Experience",
+    "author": "Trivia"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F043985b901eb432d98ad9c4502561826%2Fdb847c7f-c686-4063-8166-f668fc40939b.jpeg&w=128&q=75",
+    "name": "MaliX",
+    "link": "https://devfolio.co/projects/malix-cd69",
+    "description": "Tokenizing Ideas, Empowering Creators",
+    "author": "MaliX"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Aba's Digital Rebirth in the Blockchain Sky",
+    "link": "https://devfolio.co/projects/abas-digital-rebirth-in-the-blockchain-sky-a4f9",
+    "description": "A project leveraging DeFi and NFTs to empower artisans and small businesses in Aba, Nigeria, by improving access to financial services and opening global markets for local craftsmanship.",
+    "author": "Godex_JM's Team"
+  },
+  {
+    "image": "Image not found",
+    "name": "Sentinel",
+    "link": "https://devfolio.co/projects/sentinel-5c00",
+    "description": "Real-time blockchain mempool monitoring for accurate transaction analysis and insights.",
+    "author": "Sentinel"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Onchain Agriculture Supply Chain Tracking System",
+    "link": "https://devfolio.co/projects/onchain-agriculture-supply-chain-tracking-system-42f2",
+    "description": "Our onchain agriculture tracking system enhances transparency and trust in the supply chain, connecting farmers directly with buyers to ensure quality, fair pricing, and increased income.",
+    "author": "Joan"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "BaseBot",
+    "link": "https://devfolio.co/projects/basebot-580a",
+    "description": "Seamless crypto and fiat transactions, all in one chat.",
+    "author": "Baze"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fdad3b8e2574e476abafb39cb7b1f47c8%2F2fc0d5c9-df50-406e-a091-790c942388b5.jpeg&w=128&q=75",
+    "name": "Crowd-Health",
+    "link": "https://devfolio.co/projects/crowdhealth-f3bb",
+    "description": "Crowdhealth: Empowering patients to fund life-saving medical treatments through community-driven crowdfunding.",
+    "author": "Crowd-Health"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fe0fbde47c1fc43f69044dfe55ace31ac%2Fc5db495e-7983-4d12-b72a-f56fffbb663c.jpeg&w=128&q=75",
+    "name": "baseafrica",
+    "link": "https://devfolio.co/projects/baseafrica-07f7",
+    "description": "Connecting Based builders and Enthusiast | Making Base known in AF | Bringing a million people Onchain | Based Africa Buildathon",
+    "author": "Base"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fbba8d63f2c23472d8e822441c2da1841%2F81510dfd-3e86-45b4-971d-b5583d36d500.jpeg&w=128&q=75",
+    "name": "ScoreLend",
+    "link": "https://devfolio.co/projects/scorelend-74bf",
+    "description": "Onchain Undercollateralized Lending for Builders and Startups",
+    "author": "Peter"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F117f1d5f21374e318359a8b7d781bb23%2Ff34f4d4e-9c6c-4866-b6ba-767c68e6eedf.jpeg&w=128&q=75",
+    "name": "DigiArtX",
+    "link": "https://devfolio.co/projects/digiartx-9cec",
+    "description": "DigiArtX is a digital marketplace for digital art and nft. DigiArtX seeks to empower African creators to share their unique digital art, and creativity for monetization",
+    "author": "Base Brawlers"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F8367fbfe5bbf45458b3bf3c738153f47%2F3817566f-e05f-4534-9649-37a21aacda39.jpeg&w=128&q=75",
+    "name": "DeChange",
+    "link": "https://devfolio.co/projects/dechange-d008",
+    "description": "DeChange is a decentralised platform for educating and empowering individuals and organisations in blockchain and decentralised technologies.",
+    "author": "DeChange team"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fed2ebe1b4da149e195632de101893bdc%2F8f5d7cef-a436-458e-80ef-57eda60a6849.jpeg&w=128&q=75",
+    "name": "Onentry",
+    "link": "https://devfolio.co/projects/onentry-b79e",
+    "description": "Onentry is our passport to the Web3 ecosystem. With the platform, users can create, manage, and own their digital identity/ profile across all decentralised applications with ease and total security.",
+    "author": "Minions"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F4bb6a3e251254907a18be64ac3dcd95d%2F9d98efde-fa5a-409f-9936-26da629cefa4.jpeg&w=128&q=75",
+    "name": "BlocHealth",
+    "link": "https://devfolio.co/projects/blochealth-91f8",
+    "description": "A Secure, transparent and accessible healthcare record solution to increase patient care built on Base.",
+    "author": "BlocHealth"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1da5ba4d326345fd9943e48c1c64e9b6%2Fe429ecdd-9c1a-4cd1-827d-51ca398d34d9.jpeg&w=128&q=75",
+    "name": "TrackChain",
+    "link": "https://devfolio.co/projects/trackchain-8cf2",
+    "description": "Effortlessly record and track the complete ownership history of your items.",
+    "author": "TrackChain"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fd15a90206f174a5c84e96296526fca7b%2F5bea2969-b7cc-4cce-91e7-8c06276fe728.jpeg&w=128&q=75",
+    "name": "Based",
+    "link": "https://devfolio.co/projects/based-d699",
+    "description": "Based is a decentralized social media platform created specifically for Base builders—developers, designers, creators, and innovators who work on the Base network. Our goal is to help builders connect",
+    "author": "Based"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F4a9b584b782641a7a893caee8219ceee%2Fc8890c0e-90fd-4394-a24d-103ad9cf27e7.jpeg&w=128&q=75",
+    "name": "CHAIN INSURE",
+    "link": "https://devfolio.co/projects/chain-insure-32ae",
+    "description": "Guard Your Assets, Insure Your Future.",
+    "author": "Chain Insure"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Ff9f9cf29fc024872a1394a751cd42ebf%2F0e2a818d-9b46-4343-902e-d2040651a309.jpeg&w=128&q=75",
+    "name": "EduChain",
+    "link": "https://devfolio.co/projects/educhain-aeb6",
+    "description": "Empowering learners with decentralized, accessible education. Earn verifi certificates directly to your wallet and carry them with you anywhere.",
+    "author": "Team - EduChain"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F45a77807029b40d7824da3f618e8ee88%2F17f86c42-18f2-46f5-96ed-2648042b002e.jpeg&w=128&q=75",
+    "name": "Zend",
+    "link": "https://devfolio.co/projects/zend-ce68",
+    "description": "Send Money in 120 seconds | No Signup Needed",
+    "author": "Bolarinwa"
+  },
+  {
+    "image": "Image not found",
+    "name": "TIME TO BRING OUR IDEAS ONCHAIN",
+    "link": "https://devfolio.co/projects/time-to-bring-our-ideas-onchain-49e2",
+    "description": "I'm a web3 community builder, mentor/tutor and my passion is to help educate, guide, inform, support and bring as many Nigerians as possible Onchain.",
+    "author": "David"
+  },
+  {
+    "image": "Image not found",
+    "name": "SubOnMe",
+    "link": "https://devfolio.co/projects/subonme-844a",
+    "description": "A decentralized subscription platform empowering creators and users on the Base blockchain.",
+    "author": "crypto"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Ff9f9cf29fc024872a1394a751cd42ebf%2F0e2a818d-9b46-4343-902e-d2040651a309.jpeg&w=128&q=75",
+    "name": "EduChain",
+    "link": "https://devfolio.co/projects/educhain-aeb6",
+    "description": "Empowering learners with decentralized, accessible education. Earn verifi certificates directly to your wallet and carry them with you anywhere.",
+    "author": "Team - EduChain"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F45a77807029b40d7824da3f618e8ee88%2F17f86c42-18f2-46f5-96ed-2648042b002e.jpeg&w=128&q=75",
+    "name": "Zend",
+    "link": "https://devfolio.co/projects/zend-ce68",
+    "description": "Send Money in 120 seconds | No Signup Needed",
+    "author": "Bolarinwa"
+  },
+  {
+    "image": "Image not found",
+    "name": "TIME TO BRING OUR IDEAS ONCHAIN",
+    "link": "https://devfolio.co/projects/time-to-bring-our-ideas-onchain-49e2",
+    "description": "I'm a web3 community builder, mentor/tutor and my passion is to help educate, guide, inform, support and bring as many Nigerians as possible Onchain.",
+    "author": "David"
+  },
+  {
+    "image": "Image not found",
+    "name": "SubOnMe",
+    "link": "https://devfolio.co/projects/subonme-844a",
+    "description": "A decentralized subscription platform empowering creators and users on the Base blockchain.",
+    "author": "crypto"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F8b9c2d561fac49399d5b37a16ab63f5a%2F63bb1c0c-70f4-403d-81ca-3c8223f51a87.jpeg&w=128&q=75",
+    "name": "HEALTH TROVE",
+    "link": "https://devfolio.co/projects/health-trove-7ae8",
+    "description": "HealthTrove: Revolutionizing healthcare with blockchain, enabling secure patient records, privacy control, and efficient scheduling for better, faster care.",
+    "author": "Victor"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fda771ea8e221445bafe9237f58fc8ce3%2Fae5d699c-3d7f-45e6-ad5f-eb0d0782b0ac.jpeg&w=128&q=75",
+    "name": "The Unbound Project",
+    "link": "https://devfolio.co/projects/the-unbound-project-ce0a",
+    "description": "Connecting SMEs to scalable onchain solutions",
+    "author": "BlockBeez"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F87d4d3e886a4420abfedac7843c73739%2F7d6a41e0-1e29-4117-957a-406f05fae685.jpeg&w=128&q=75",
+    "name": "PodX",
+    "link": "https://devfolio.co/projects/basebook-32e3",
+    "description": "Host meetings, record sessions, earn verifiable proof of attendance, and tip each other seamlessly. An onchain creator's workspace.",
+    "author": "Temidayo"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F3067ef54ca5d4467ac52cd2cd700b77a%2F785f044c-7b23-4299-ba5a-9512445dab5d.jpeg&w=128&q=75",
+    "name": "DeVote",
+    "link": "https://devfolio.co/projects/base-vox-8f3f",
+    "description": "DeVote is a decentralized voting system built on the Base blockchain, ensuring transparent, secure, and tamper-proof elections. You get to experience traditional governance onchain",
+    "author": "SULTANS"
+  },
+  {
+    "image": "Image not found",
+    "name": "PayGifty",
+    "link": "https://devfolio.co/projects/paygifty-8f60",
+    "description": "PayGifty is a platform for sending, receiving, and redeeming gift cards effortlessly. It simplifies gift-giving by allowing users to share personalized gift cards and redeem them at their convenie",
+    "author": "Nasihudeen"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fc8a0e6cd2be1419796ff1f523a0618b5%2F0885513d-11bf-4f16-9cbc-d4256ef4862e.jpeg&w=128&q=75",
+    "name": "Refuel Bot",
+    "link": "https://devfolio.co/projects/refuel-bot-44e9",
+    "description": "Fastest Bridge Bot on Earth",
+    "author": "Precium Labs"
+  },
+  {
+    "image": "Image not found",
+    "name": "TaskMoney",
+    "link": "https://devfolio.co/projects/taskmoney-28d4",
+    "description": "A decentralized platform for task management with cryptocurrency bounties to foster collaboration and incentivize work.",
+    "author": "Badyah"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "MINTIFY",
+    "link": "https://devfolio.co/projects/mintify-8e90",
+    "description": "Empowering Communities, Celeberating Achievements!",
+    "author": "TEAM SUCCESS"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "ChowLive Africa",
+    "link": "https://devfolio.co/projects/chowlive-0909",
+    "description": "Uniting friends on-chain with shared listening experiences and social discovery",
+    "author": "Godson"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Shika",
+    "link": "https://devfolio.co/projects/shika-5b2e",
+    "description": "Credit Score Aggregation for Banks & Financial Credit Providers Targeting SME's and Individuals",
+    "author": "Shika"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F503eb7c99b4a43cc94670d072b4489f8%2F4182ec92-cffc-4e3f-9679-74c2102bebf3.jpeg&w=128&q=75",
+    "name": "baseEastAfrica (eastafrika.base.eth)",
+    "link": "https://devfolio.co/projects/baseeastafrica-eastafrikabaseeth-bece",
+    "description": "Onboarding the vibrant east africa onchain through Base's blockchain  seamless user experience, low gas fees and interoperability",
+    "author": "Francis"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F49720b620d3248b48e56b6a3c7e601d1%2F7951b4b6-b717-425d-b74a-2e1aea40c339.jpeg&w=128&q=75",
+    "name": "EgoBlox",
+    "link": "https://devfolio.co/projects/billeasy-e681",
+    "description": "EgoBlox is a Telegram bot and USSD application that allows people to buy airtime, and data, pay bills, and send tokens using basename, Telegram usernames, and wallet address",
+    "author": "TechFromRoot"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F24f480f60fc6428a8ac3a649acfb0596%2Fc872d17e-a4d3-44cc-b57c-ecd2a0d9dec1.jpeg&w=128&q=75",
+    "name": "Antugrow",
+    "link": "https://devfolio.co/projects/antugrow-779d",
+    "description": "Onchain credit scoring for farmers in Africa to enable them access stablecoin microcredit based on farm performance.",
+    "author": "Antugrow"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F6bdf9d0323204c149953de1e4dd43b76%2F4e7b2085-0390-43b8-810b-2c61849e0abf.jpeg&w=128&q=75",
+    "name": "Chaincrib | Tokenizing Real Estate On Base",
+    "link": "https://devfolio.co/projects/chaincrib-or-tokenizing-real-estate-on-base-aa05",
+    "description": "Chaincrib leverages the Base blockchain to enable fractional ownership of real estate, significantly reducing entry barriers and making investment accessible and affordable to a broader audience.",
+    "author": "Chaincrib"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F36771a82c7014775bde57098a30f382b%2F6376cd0e-957c-4ee6-9ca2-b8d2d2045c93.jpeg&w=128&q=75",
+    "name": "Flexclub",
+    "link": "https://devfolio.co/projects/flexclub-3732",
+    "description": "Onchain goal-based savings clubs based on the concept of Stokvels (community based saving clubs) in South Africa 🇿🇦",
+    "author": "ashraf"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F6836a6b7a4ac47fe8ca41eb6cc229b0c%2Fc34b20ae-2b08-4c3a-ba6a-c789e7b9afc1.jpeg&w=128&q=75",
+    "name": "V3Uniswap.",
+    "link": "https://devfolio.co/projects/vuniswap-8e17",
+    "description": "Smart Contract for operations & functions that interact on Uniswap v3 pools.",
+    "author": "zack"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Sotechy Shop",
+    "link": "https://devfolio.co/projects/sotechy-shop-0865",
+    "description": "So-Techy: Digitally Transformed Platform for Electronic Gadgets & Appliances, Accepting Bank and Crypto Payments Online and Offline.",
+    "author": "Sotechy"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "CHORUS",
+    "link": "https://devfolio.co/projects/chorus-2dff",
+    "description": "CHORUS is a decentralized platform designed to streamline and democratize access to educational scholarships for underserved African communities",
+    "author": "CHORUS"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "HUB Verified",
+    "link": "https://devfolio.co/projects/hub-verified-43ee",
+    "description": "HUBverified phase 1 recognizes Web3 volunteers via NFT minting and evaluation. Phases 2 and 3 unite builders and artists to collaborate, with a blog educating about BASE and Web3",
+    "author": "Rema"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Elevate: Igniting Community Growth",
+    "link": "https://devfolio.co/projects/impact-of-community-effort-to-the-onchain-economy-3196",
+    "description": "No one is an Island of theirselves, that's why we all need to belong to a community.",
+    "author": "Chimuanya"
+  },
+  {
+    "image": "Image not found",
+    "name": "Donut",
+    "link": "https://devfolio.co/projects/donut-0b44",
+    "description": "A decentralized donation platform for transparent community-driven fundraising on the Base blockchain.",
+    "author": "Pelle"
+  },
+  {
+    "image": "Image not found",
+    "name": "BaseProof",
+    "link": "https://devfolio.co/projects/baseproof-6521",
+    "description": "A simple, secure, and decentralized solution for proving the existence and integrity of documents on the Base blockchain.",
+    "author": "Hamama"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F867f9d2754ff4c5b8f4e1211113ff5f4%2F29bc577b-affd-4be6-b089-97b4b85cecb6.jpeg&w=128&q=75",
+    "name": "Prosure",
+    "link": "https://devfolio.co/projects/prosure-1c25",
+    "description": "Our Project tackles DeFi users' losses in hacks by offering Prosure, a decentralized insurance platform that protects assets, ensuring users who purchased coverage get their money back.",
+    "author": "Prosure"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fff7c2f3c79ea4383bd19cd95d07ee517%2Fbf1f72ee-d48a-42cd-aacb-c3fcf3337723.jpeg&w=128&q=75",
+    "name": "SoloBet",
+    "link": "https://devfolio.co/projects/solobet-ff3a",
+    "description": "Betting, Reinvented",
+    "author": "solo"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa9c6328b3e144740a4257cc3b7f9d3f9%2Fb9f94375-e34c-40d1-9b07-a3bb511fc986.jpeg&w=128&q=75",
+    "name": "Base Builders and Enthusiasts Hangout",
+    "link": "https://devfolio.co/projects/base-builders-and-enthusiasts-hangout-c711",
+    "description": "Base Builders and Enthusiasts Hangout is a virtual meetup on  Twitter where builders and enthusiasts gather to share ideas,  experiences, collaborate, onboard people and provide Blocknchain education",
+    "author": "Base Builders and Enthusiasts"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F1ae761d98b5744738e9457c79cf92d82%2Fb41edded-7bd1-44d2-9b85-6bbe747f66a7.jpeg&w=128&q=75",
+    "name": "0xWitness",
+    "link": "https://devfolio.co/projects/xwitness-daa3",
+    "description": "Empowering communities to report and verify local events onchain with transparency and trust.",
+    "author": "Chukwuebuka"
+  },
+  {
+    "image": "Image not found",
+    "name": "Samson",
+    "link": "https://devfolio.co/projects/samson-6bf2",
+    "description": "Samson",
+    "author": "Samson"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Maisha Care",
+    "link": "https://devfolio.co/projects/maisha-care-3167",
+    "description": "Empowering patients with secure, blockchain-based control over their health data for improved healthcare and insurance.",
+    "author": "Maisha-Care"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F6d9dfa7742c947dea9072ff406734378%2F0b27721b-7fab-4aea-b55a-634d1dc009af.jpeg&w=128&q=75",
+    "name": "Daobitat",
+    "link": "https://devfolio.co/projects/daobitat-2533",
+    "description": "Daobitat unlocks global financing for African SME's by leveraging existing real-world assets use as verifiable collateral.",
+    "author": "DaoBitat"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F9b9994bf74b344a3b9f625b74f10665b%2Fb080e2de-16a7-403c-b78f-406dbb57f352.jpeg&w=128&q=75",
+    "name": "PowerLayer",
+    "link": "https://devfolio.co/projects/powerlayer-42f8",
+    "description": "PowerLayer is a decentralized fundraising and trading platform for renewable energy, enabling seamless participation in the financing and trading of energy assets on blockchain.",
+    "author": "Jay"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa913ab8b7c1841179d1cbdec9552b7cd%2Fbdbdabca-6355-4f28-9093-9ade8a467355.jpeg&w=128&q=75",
+    "name": "MEDCHAIN",
+    "link": "https://devfolio.co/projects/medchain-5fa9",
+    "description": "Medchain is an on-chain platform that uses telemedicine to deliver healthcare in remote and war-torn areas. It unites doctors, sponsors, and volunteers to provide essential medical services.",
+    "author": "onChainDevs"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F09409cc11d6f4191a72f9ea8ede74115%2F2032978f-2455-46d9-923f-3852ca840a8a.jpeg&w=128&q=75",
+    "name": "Bitgrass",
+    "link": "https://devfolio.co/projects/bitgrass-604b",
+    "description": "Tokenizing Real-world land plots as NFTs—to drive sustainable farming and generate carbon credits, helping scale durable carbon removal to meet net-zero goals.",
+    "author": "Bitgrass"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F9d5d6b79b7494b3cbb826f7c5a43370a%2Fada35907-9317-4961-b31c-078400041e9a.jpeg&w=128&q=75",
+    "name": "Crawdify",
+    "link": "https://devfolio.co/projects/crowdify-f9be",
+    "description": "Empowering Dreams through Decentralized Crowdfunding.",
+    "author": "Crowdify Team"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F6854e9177b8b49c9b1696499d7e99781%2F42d0170f-40af-4f0c-ba6d-80a4d96d352c.jpeg&w=128&q=75",
+    "name": "Bridgepay solutions",
+    "link": "https://devfolio.co/projects/bridgepay-2ca1",
+    "description": "Breaking barriers in payment.",
+    "author": "Bridgepay solutions"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F35c0950e2a5443eda71dff393ae784b0%2Fe3c9807a-e2e6-40e4-ad66-0e020e04eab9.jpeg&w=128&q=75",
+    "name": "Kintsugi, a Japanese term meaning golden joinery.",
+    "link": "https://devfolio.co/projects/kintsugi-a-japanese-term-meaning-golden-joinery-4b24",
+    "description": "1. Empowering Survivors, One Connection at a Time.Kintsugi: A secure platform empowering survivors of gender-based violence through anonymous reporting, peer support, and community resources.",
+    "author": "Kintsugi"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fde26a39719e045069f28327d4b3bf6a4%2Fa3d214c8-ee69-4ebb-b2e1-5476bebf4e07.jpeg&w=128&q=75",
+    "name": "Chain Ballot",
+    "link": "https://devfolio.co/projects/chainballot-l-b936",
+    "description": "Decentralized Voting for Transparent Elections\n\nDescription:\nChainBallot is a blockchain-based voting platform that ensures secure, transparent, and tamper-proof elections. Built on the Base",
+    "author": "ChainBallot"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F9fab341a772a49b8a473877e38cb15d0%2F3c1ae8bd-294a-4ab6-b9bf-7754ae14738d.jpeg&w=128&q=75",
+    "name": "NFT Factory",
+    "link": "https://devfolio.co/projects/nft-factory-5a4b",
+    "description": "NFT Factory, Home of Tangible NFTs",
+    "author": "Abimbola"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0bed35a43caa4c36ba6a0d1981d6ac7e%2F2c3b1a84-25be-49b2-8005-87287a9dc1bc.jpeg&w=128&q=75",
+    "name": "Network Untop Network (NUN)",
+    "link": "https://devfolio.co/projects/network-untop-network-nun-e087",
+    "description": "Simple, Fast and safe Staking",
+    "author": "Network untop Network"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F104d20ad6d4e4e0383147243897ed50e%2F5541f457-7f78-4277-836c-1d89c52ca366.jpeg&w=128&q=75",
+    "name": "Society Shield",
+    "link": "https://devfolio.co/projects/society-shield-1758",
+    "description": "A mobile app that simplifies member contributions and payments for community welfare with transparency and accountability.",
+    "author": "LeapDev"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F39db8cf51ed447b5b8aa5cd1ff1fd80d%2Ffed71c0d-1258-4375-9164-629115352155.jpeg&w=128&q=75",
+    "name": "Kids Onchain",
+    "link": "https://devfolio.co/projects/kids-onchain-44fc",
+    "description": "Kids Onchain is on a mission to bring 1 Million kids onchain through Base using creative and fun learning means like storybooks, cartoons, paintings, music, arts, school clubs and more.",
+    "author": "Sandra"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F4eb83c951e9f42f9bcac485c5677c49b%2Faa0226dd-be97-4295-bb06-1ead530a4441.jpeg&w=128&q=75",
+    "name": "Netsepio",
+    "link": "https://devfolio.co/projects/netsepio-5252",
+    "description": "Empowering Connectivity, Defending Privacy: NetSepio for a Free Internet",
+    "author": "Isaac"
+  },
+  {
+    "image": "Image not found",
+    "name": "MedChain",
+    "link": "https://devfolio.co/projects/medchain-8ec0",
+    "description": "Your decentralized healthcare finder in an emergency",
+    "author": "TEAM TMD"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F14ac8cbe20a44aeebccafc5401b18d23%2F6e092993-cfaf-4e28-a34e-6d3c6471fe90.jpeg&w=128&q=75",
+    "name": "BaseBridge",
+    "link": "https://devfolio.co/projects/basebridge-a630",
+    "description": "Fast, secure, and affordable cross-border transfers",
+    "author": "Esko Lead."
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F88c0ee5bceb4405a8df774ae6a0acb1b%2Fb3e3bade-79c1-451f-8b0c-c650f7f30d06.jpeg&w=128&q=75",
+    "name": "PharmVerify",
+    "link": "https://devfolio.co/projects/pharmverify-a5a2",
+    "description": "Decentralized App for Verifying Pharmaceutical Product Authenticity",
+    "author": "Chieloka"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Ff958468a40ff4e799af3031ce352f712%2Fcb310359-5129-42af-aa33-b44a90295698.jpeg&w=128&q=75",
+    "name": "CoinSafe",
+    "link": "https://devfolio.co/projects/coinsafe-0520",
+    "description": "Automated Savings. Smarter Investments. Personalized Financial Management.",
+    "author": "BlackOps"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fff994d993fba4b6fbb2839bf47bf6192%2Fbc17c211-ab89-4b1a-903d-09b68005b331.jpeg&w=128&q=75",
+    "name": "StablePay",
+    "link": "https://devfolio.co/projects/blockpay-48a2",
+    "description": "Africa-focused crypto payment gateway enabling businesses to send and receive payments with stablecoins and other cryptocurrencies, reducing transaction fees, eliminating intermediaries, and streaml",
+    "author": "Joshua"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Ff8b79f61ad91442a8153eede4611a472%2Ff1fc1275-157b-4a85-a807-64c021ee8b2b.jpeg&w=128&q=75",
+    "name": "Based Around The World (BATW)",
+    "link": "https://devfolio.co/projects/based-around-the-world-batw-e132",
+    "description": "We Are Backed by Base A global platform exploring cryptocurrency's impact on cultures and economies, featuring a marketplace, educational resources, and user experiences.",
+    "author": "Silas"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F0fe0093e71c4408ea176852e9a344ec6%2F2e72f7d7-9385-49bc-b5e7-04b1217c0b89.jpeg&w=128&q=75",
+    "name": "InqBlock",
+    "link": "https://devfolio.co/projects/inqblock-cfee",
+    "description": "\"Decentralized Knowledge, Verified by Consensus.\"\n\nFurther: a decentralized repository for blockchain and Web3 knowledge, where accuracy is determined by the community",
+    "author": "Ben"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa9f0168426724f8c8268ba45f3587fea%2F150420ba-1cb9-4491-b875-0fa4d44f105d.jpeg&w=128&q=75",
+    "name": "Chekout",
+    "link": "https://devfolio.co/projects/chekout-0300",
+    "description": "Seamless Social Commerce – Pay in Any Currency, Anywhere",
+    "author": "chekout"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fb3dc3f8aafc749c08f6a0061fa27be96%2F6a0c2d83-f789-42d9-a4c4-d59aea911bf0.jpeg&w=128&q=75",
+    "name": "Base Akure",
+    "link": "https://devfolio.co/projects/base-akure-1df7",
+    "description": "Bringing the world Onchain  Locally in Akure a City in Nigeria, Africa",
+    "author": "Base Akure (Bring Local People )"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fbc6270aec7174ae8b19ac8bf1a2fd41f%2Fa735039a-4d80-4e96-ba5b-8ca6fac24546.jpeg&w=128&q=75",
+    "name": "Base Tours, Lusaka",
+    "link": "https://devfolio.co/projects/base-tours-9360",
+    "description": "Bringing Heritage Onchain",
+    "author": "Base Tours, Lusaka"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fb92b9df3d9924bd68dcce586e33755ad%2F4191f0c0-906b-45a8-9936-f92b1496bb36.jpeg&w=128&q=75",
+    "name": "Mellow Finance",
+    "link": "https://devfolio.co/projects/mellow-finance-1ea5",
+    "description": "Credit Made Easy!",
+    "author": "Mellow.fi"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F32783b9d257b44f0a23d3a92e324b2e7%2F5a40c2db-8678-403c-833a-58d8cdc4f07d.jpeg&w=128&q=75",
+    "name": "Diary of an African Based Girl",
+    "link": "https://devfolio.co/projects/diary-of-an-african-based-girl-eff1",
+    "description": "Bridging the Gap: Making Onchain Information Accessible in Local African Dialects at the Grassroots.",
+    "author": "Ellena"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F6f095dd07d114c5bb3b5312a3faadfd9%2Ff71eb4f8-f8cb-4161-abd9-3c6c1b8af278.jpeg&w=128&q=75",
+    "name": "Crystalrohr",
+    "link": "https://devfolio.co/projects/xylkit-x-1004",
+    "description": "Hear your scenes, feel the screen with crystal captions!",
+    "author": "xylkitties"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fb20f1044a6b44747850a0637d7a4b0ea%2Fa9cd2095-be47-44bf-b363-ed51485870ff.jpeg&w=128&q=75",
+    "name": "Namib Onboarding Spree",
+    "link": "https://devfolio.co/projects/namib-onboarding-spree-b1b4",
+    "description": "From the Desert to the Blockchain: Onboarding Namibia with Base!",
+    "author": "Mupalo"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F378f7fe53e1b4bbe9e2099ddfd053425%2F1e6544a5-b5cd-4fb2-bb63-61034f7aa134.jpeg&w=128&q=75",
+    "name": "Base Translate",
+    "link": "https://devfolio.co/projects/base-translate-d3c2",
+    "description": "Onboarding Communities to Base One word at a Time",
+    "author": "base"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Booksology",
+    "link": "https://devfolio.co/projects/booksology-842a",
+    "description": "Booksology is the onchain bookstore for the modern age",
+    "author": "Temitope"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Kiwi Bridge Bot",
+    "link": "https://devfolio.co/projects/kiwi-bridge-bot-c798",
+    "description": "Kiwi Bridge Bot is an innovative Telegram chatbot enabling instant bridging of native, non-native, and USDC tokens between Base and multiple L1 & L2 blockchains.",
+    "author": "Tomiwa"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Onchain Writers.",
+    "link": "https://devfolio.co/projects/onchain-writers-18ba",
+    "description": "Bringing the next generation of writers onchain.",
+    "author": "Bisola"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "CarbonCorp",
+    "link": "https://devfolio.co/projects/carboncorp-4663",
+    "description": "Seamlessly earn and trade carbon credits,  stablecoins, provide liquidity, and offset carbon on the Base Blockchain. Empowering Africa's sustainable future with verifiable carbon offsets.",
+    "author": "Carbon Corp"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "ONCHAIN STROKES",
+    "link": "https://devfolio.co/projects/onchain-strokes-7dc4",
+    "description": "Empowering Artists To Thrive Onchain",
+    "author": "Onchain strokes"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "NIFTOPIA",
+    "link": "https://devfolio.co/projects/niftopia-80da",
+    "description": "Grab your own stake of the new gold! We're your gateway to the exciting world of NFTs",
+    "author": "GoldMine Team"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fa3bbb4a09f6e43c69d66fc5b8b0f49eb%2Ff90ddfde-f27e-4e3e-a665-d2179bb4eb26.jpeg&w=128&q=75",
+    "name": "Ecorewards",
+    "link": "https://devfolio.co/projects/ecorewards-81f8",
+    "description": "A decentralized recyclable product marketplace",
+    "author": "CIYIK"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fdd234289c02248198b2fca3332595073%2F83453645-3ee0-42a4-ac73-cc37195b5451.jpeg&w=128&q=75",
+    "name": "AgroBased",
+    "link": "https://devfolio.co/projects/agrobased-f1b1",
+    "description": "Empowering African agriculture through blockchain-based asset tokenization and investment.",
+    "author": "wisdom"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F3eff3a4a850f4b0a839a5f6bd0300cdd%2F54f0da47-4cbc-4a6a-9bba-94e15d6f7ce1.jpeg&w=128&q=75",
+    "name": "TRUSTLEND",
+    "link": "https://devfolio.co/projects/trustlend-b391",
+    "description": "TrustLend is a P2P DeFi app on the Base blockchain, enabling users to create, request, lend, and liquidate loans with smart contracts for secure, automated, and transparent lending and borrowing.",
+    "author": "Ronex"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F12878f8ce6464b0b89fb7438fe13e29b%2Fa7b7874e-a3c8-4446-a1cf-f9f5819868e6.jpeg&w=128&q=75",
+    "name": "LearNova",
+    "link": "https://devfolio.co/projects/learnova-ec42",
+    "description": "AI-powered, blockchain-based learning platform with token rewards.",
+    "author": "Genesis"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Buidl",
+    "link": "https://devfolio.co/projects/buidl-dfa1",
+    "description": "Learning a skill is hard - getting Web3 jobs shouldn't be.",
+    "author": "Buidl Core Team"
+  },
+  {
+    "image": "Image not found",
+    "name": "My Hotel",
+    "link": "https://devfolio.co/projects/my-hotel-6191",
+    "description": "Allowing guests to book hotel rooms by holding a min of 0.05% and max of 25% of the rooms total supply.",
+    "author": "Pumpin"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Mini minds",
+    "link": "https://devfolio.co/projects/minimind-422c",
+    "description": "miniminds is a decentralized interactive e-learning platform for kids aged 5-16, offering gamified lessons in math, science, and coding to make learning fun and engaging while tracking progress.",
+    "author": "anwar"
+  },
+  {
+    "image": "Image not found",
+    "name": "Blockgigs",
+    "link": "https://devfolio.co/projects/blockgigs-4df1",
+    "description": "Empowering African Tech Talent Through Blockchain Innovation - A Solution to the Prosperity Paradox",
+    "author": "blockgigs"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "OACF - Non fungible Afrika hub",
+    "link": "https://devfolio.co/projects/onchain-africa-creators-fund-oacf-365c",
+    "description": "Onboard, Showcase, and Reward African Art Onchain",
+    "author": "Onchain Africa Art Fund"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Digitsave",
+    "link": "https://devfolio.co/projects/digitsave-72e4",
+    "description": "Save Securely in multiple assets and stay Protedted from liquidation, while earning high interest in your savings.",
+    "author": "DigitSave"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fc2608d899ec74d43a13c50e9d13e9d46%2Fc35d5366-c76c-4584-843b-1fe5e2329f79.jpeg&w=128&q=75",
+    "name": "ATHLETES ON CHAIN",
+    "link": "https://devfolio.co/projects/athletes-on-chain-b649",
+    "description": "Revolutionizing Sports: Empowering Athletes Through Blockchain Technology",
+    "author": "Ayobami"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fb5a8ceca895446ce9ad3d93e13015c3f%2F7bd77f4a-92d7-4576-be0d-b7c547f45acc.jpeg&w=128&q=75",
+    "name": "Nine",
+    "link": "https://devfolio.co/projects/nine-9502",
+    "description": "A decentralized payments network",
+    "author": "Nine"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fdfb949094d704810a06770597f14bf8d%2Fab786e79-1869-4589-840d-1018b3e7667c.jpeg&w=128&q=75",
+    "name": "MiCall",
+    "link": "https://devfolio.co/projects/micall-acb0",
+    "description": "Your Emergency Network, Just a Tap Away",
+    "author": "Tim"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F84a1b8d2d9d740fb81d1a6e7962a50be%2Fc0c1929c-8ae5-4248-a9ee-025646f3356e.jpeg&w=128&q=75",
+    "name": "Message",
+    "link": "https://devfolio.co/projects/message-c773",
+    "description": "\"Bringing simplicity to the blockchain — store, update, and interact with data on Base with ease.\"",
+    "author": "joes"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2F9820366d492a474f859e1817bfc96da7%2F224bb66d-d62d-4f1e-a12e-674b84652c71.jpeg&w=128&q=75",
+    "name": "InvoisChain",
+    "link": "https://devfolio.co/projects/invoischain-4f13",
+    "description": "\"Helping businesses, entrepreneurs, and freelancers seamlessly create invoices on-chain.\"",
+    "author": "InvoisChain"
+  },
+  {
+    "image": "https://based-africa.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb95da37a3a1a4fb9adb82d7d9f6d80e9%2Fprojects%2Fcd3655dfd46e42d387196c51b9b7bb83%2Fea4c45b7-03ef-4858-a644-2f647b3c33a4.jpeg&w=128&q=75",
+    "name": "Lendbit Finance",
+    "link": "https://devfolio.co/projects/lendbit-finance-073b",
+    "description": "Unlock the full potential of your digital assets with community-driven credit solutions.",
+    "author": "LendBit"
+  }
+]
