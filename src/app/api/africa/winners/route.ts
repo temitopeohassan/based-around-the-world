@@ -18,21 +18,32 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
         getFrameHtmlResponse({
           buttons: [
             {
-              label: 'View Projects',
+              label: 'Based India',
               action: 'post',
-              postUrl: `${NEXT_PUBLIC_URL}/api/africa/projects`,
+              postUrl: `${NEXT_PUBLIC_URL}/api/india`,
             },
             {
-              label: 'View Winners',
+              label: 'Based Latam',
               action: 'post',
-              postUrl: `${NEXT_PUBLIC_URL}/api/africa/projects`,
+              postUrl: `${NEXT_PUBLIC_URL}/api/latam`,
+            },
+            {
+              label: 'Based SEA',
+              action: 'post',
+              postUrl: `${NEXT_PUBLIC_URL}/api/sea`,
+            },
+            {
+              label: 'Based Africa',
+              action: 'post',
+              postUrl: `${NEXT_PUBLIC_URL}/api/africa`,
             },
           ],
-          image: `${NEXT_PUBLIC_URL}/africa/buildathon.png`,
-          post_url: `${NEXT_PUBLIC_URL}/api/africa/projects`,
+          image: `${NEXT_PUBLIC_URL}/buildathon.png`,
+          post_url: `${NEXT_PUBLIC_URL}/api/projects?region=all`,
         })
       );
     }
+
 
     // Parse state with better error handling
     let currentIndex;

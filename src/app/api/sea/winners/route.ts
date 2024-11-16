@@ -12,27 +12,38 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     const { untrustedData } = body;
     const buttonIndex = untrustedData?.buttonIndex || 0;
 
-    // If Home button is clicked (button index 4)
-    if (buttonIndex === 4) {
-      return new NextResponse(
-        getFrameHtmlResponse({
-          buttons: [
-            {
-              label: 'View Projects',
-              action: 'post',
-              postUrl: `${NEXT_PUBLIC_URL}/api/sea/projects`,
-            },
-            {
-              label: 'View Winners',
-              action: 'post',
-              postUrl: `${NEXT_PUBLIC_URL}/api/sea/winners`,
-            },
-          ],
-          image: `${NEXT_PUBLIC_URL}/sea/buildathon.png`,
-          post_url: `${NEXT_PUBLIC_URL}/api/sea/projects`,
-        })
-      );
-    }
+  // If Home button is clicked (button index 4)
+  if (buttonIndex === 4) {
+    return new NextResponse(
+      getFrameHtmlResponse({
+        buttons: [
+          {
+            label: 'Based India',
+            action: 'post',
+            postUrl: `${NEXT_PUBLIC_URL}/api/india`,
+          },
+          {
+            label: 'Based Latam',
+            action: 'post',
+            postUrl: `${NEXT_PUBLIC_URL}/api/latam`,
+          },
+          {
+            label: 'Based SEA',
+            action: 'post',
+            postUrl: `${NEXT_PUBLIC_URL}/api/sea`,
+          },
+          {
+            label: 'Based Africa',
+            action: 'post',
+            postUrl: `${NEXT_PUBLIC_URL}/api/africa`,
+          },
+        ],
+        image: `${NEXT_PUBLIC_URL}/buildathon.png`,
+        post_url: `${NEXT_PUBLIC_URL}/api/projects?region=all`,
+      })
+    );
+  }
+
 
     // Parse state with better error handling
     let currentIndex;
