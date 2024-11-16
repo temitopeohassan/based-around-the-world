@@ -14,7 +14,7 @@ export async function GET(req: NextRequest): Promise<NextResponse> {
     return new NextResponse('Project parameter is required', { status: 400 });
   }
 
-  const imagePath = path.join(process.cwd(), 'public', 'buildathon-og-africa.png');
+  const imagePath = path.join(process.cwd(), 'public', 'buildathon-og.png');
   const fontPath = path.join(process.cwd(), 'public', 'fonts', 'Arial.ttf');
 
   try {

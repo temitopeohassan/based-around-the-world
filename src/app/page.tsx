@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Base Around The World Buildathon',
   description: 'Explore winners and projects from the Base Around The World Buildathon',
   openGraph: {
-    title: 'Base Around The World Buildathon Based Latam',
+    title: 'Base Around The World Buildathon',
     description: 'Explore winners and projects from the Base Around The World Buildathon',
     images: [`${NEXT_PUBLIC_URL}/buildathon.png`],
   },
