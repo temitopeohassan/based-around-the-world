@@ -11,7 +11,6 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     const body = await req.json();
     const { untrustedData } = body;
     
-    // Debug log to see what we're receiving
     console.log('Received request:', {
       buttonIndex: untrustedData?.buttonIndex,
       state: untrustedData?.state,
@@ -53,37 +52,36 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     // Initialize currentIndex
     let currentIndex = 0;
 
-    // Only try to get state if we have a button press
-    if (untrustedData?.buttonIndex && untrustedData?.state) {
+    // Get current state if it exists
+    if (untrustedData?.state) {
       try {
         const stateData = JSON.parse(untrustedData.state);
         currentIndex = stateData.index ?? 0;
       } catch (error) {
         console.error('Error parsing state:', error);
-        currentIndex = 0;
-      }
-
-      // Handle navigation based on button press
-      switch (untrustedData.buttonIndex) {
-        case 1: // Previous
-          currentIndex = (currentIndex - 1 + projects.length) % projects.length;
-          break;
-        case 2: // Next
-          currentIndex = (currentIndex + 1) % projects.length;
-          break;
-        default:
-          // For any other button or initial load, keep currentIndex as is
-          break;
       }
     }
 
-    // Debug log to see what index we're using
-    console.log('Using index:', currentIndex);
+    // Handle navigation based on button press
+    if (untrustedData?.buttonIndex === 1) { // Previous
+      currentIndex = currentIndex <= 0 ? projects.length - 1 : currentIndex - 1;
+    } else if (untrustedData?.buttonIndex === 2) { // Next
+      currentIndex = currentIndex >= projects.length - 1 ? 0 : currentIndex + 1;
+    }
 
-    // Ensure currentIndex is within bounds
-    currentIndex = Math.max(0, Math.min(currentIndex, projects.length - 1));
+    console.log('Navigation:', {
+      buttonIndex: untrustedData?.buttonIndex,
+      currentIndex,
+      totalProjects: projects.length
+    });
 
+    // Get current project and create response
     const currentProject = projects[currentIndex];
+    const nextIndex = (currentIndex + 1) % projects.length;
+    const prevIndex = (currentIndex - 1 + projects.length) % projects.length;
+    const nextProject = projects[nextIndex];
+    const prevProject = projects[prevIndex];
+
     if (!currentProject) {
       console.error('Project not found for index:', currentIndex);
       return new NextResponse('Project not found', { status: 500 });
@@ -94,11 +92,11 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
       getFrameHtmlResponse({
         buttons: [
           {
-            label: `Previous (${currentIndex + 1}/${projects.length})`,
+            label: `← ${prevProject ? prevProject.name || 'Previous' : 'Previous'}`,
             action: 'post',
           },
           {
-            label: `Next (${currentIndex + 1}/${projects.length})`,
+            label: `→ ${nextProject ? nextProject.name || 'Next' : 'Next'}`,
             action: 'post',
           },
           {
@@ -113,11 +111,14 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
         ],
         image: imageUrl,
         post_url: `${NEXT_PUBLIC_URL}/api/africa/projects`,
-        state: { index: currentIndex },
+        state: { 
+          index: currentIndex,
+          direction: untrustedData?.buttonIndex === 1 ? 'prev' : 'next'
+        },
       })
     );
 
-    // Set cache control headers
+    // Cache control
     response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
     response.headers.set('Pragma', 'no-cache');
     response.headers.set('Expires', '0');
