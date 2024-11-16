@@ -45,24 +45,21 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     }
 
     // Parse state with better error handling
-    let currentIndex;
+    let currentIndex = 0; // Default to 0
     try {
       if (untrustedData?.state) {
         const stateData = JSON.parse(untrustedData.state);
         currentIndex = typeof stateData.index === 'number' ? stateData.index : 0;
-      } else {
-        currentIndex = 0; // Set to 0 for initial load
       }
     } catch (error) {
       console.error('Error parsing state:', error);
-      currentIndex = 0;
     }
 
     // Handle navigation
     if (buttonIndex === 2) { // Next
       currentIndex = (currentIndex + 1) % projects.length;
     } else if (buttonIndex === 1) { // Previous
-      currentIndex = currentIndex <= 0 ? projects.length - 1 : currentIndex - 1;
+      currentIndex = (currentIndex - 1 + projects.length) % projects.length;
     }
 
     console.log('Navigation:', {
@@ -78,7 +75,6 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     }
 
     const imageUrl = `${NEXT_PUBLIC_URL}/africa/${currentProject.image}`;
-
     const response = new NextResponse(
       getFrameHtmlResponse({
         buttons: [
@@ -102,10 +98,11 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
         ],
         image: imageUrl,
         post_url: `${NEXT_PUBLIC_URL}/api/africa/projects`,
-        state: { index: currentIndex },
+        state: { index: currentIndex }, // Pass the state as an object, not a string
       })
     );
 
+    // Set cache control headers
     response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
     response.headers.set('Pragma', 'no-cache');
     response.headers.set('Expires', '0');
