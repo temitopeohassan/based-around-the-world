@@ -20,7 +20,7 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
 
     // Handle home button (index 4)
     if (untrustedData?.buttonIndex === 4) {
-      return new NextResponse(
+      const homeResponse = new NextResponse(
         getFrameHtmlResponse({
           buttons: [
             {
@@ -48,6 +48,15 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
           post_url: `${NEXT_PUBLIC_URL}/api/projects?region=all`,
         })
       );
+
+      // Set aggressive cache control headers
+      homeResponse.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, max-age=0');
+      homeResponse.headers.set('Pragma', 'no-cache');
+      homeResponse.headers.set('Expires', '0');
+      homeResponse.headers.set('Surrogate-Control', 'no-store');
+      homeResponse.headers.set('Clear-Site-Data', '"cache"');
+      
+      return homeResponse;
     }
 
     // Initialize currentIndex
@@ -83,7 +92,10 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
       return new NextResponse('Project not found', { status: 500 });
     }
 
-    const imageUrl = `${NEXT_PUBLIC_URL}/africa/${currentProject.image}`;
+    // Add timestamp to image URL to prevent caching
+    const timestamp = new Date().getTime();
+    const imageUrl = `${NEXT_PUBLIC_URL}/africa/${currentProject.image}?t=${timestamp}`;
+    
     const response = new NextResponse(
       getFrameHtmlResponse({
         buttons: [
@@ -106,15 +118,17 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
           },
         ],
         image: imageUrl,
-        post_url: `${NEXT_PUBLIC_URL}/api/africa/projects`,
+        post_url: `${NEXT_PUBLIC_URL}/api/africa/projects?t=${timestamp}`,
         state: { index: currentIndex },
       })
     );
 
-    // Set cache control headers
-    response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
+    // Set aggressive cache control headers
+    response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, max-age=0');
     response.headers.set('Pragma', 'no-cache');
     response.headers.set('Expires', '0');
+    response.headers.set('Surrogate-Control', 'no-store');
+    response.headers.set('Clear-Site-Data', '"cache"');
 
     return response;
   } catch (error) {
