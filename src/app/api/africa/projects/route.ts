@@ -10,10 +10,16 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
   try {
     const body = await req.json();
     const { untrustedData } = body;
-    const buttonIndex = untrustedData?.buttonIndex || 0;
+    
+    // Debug log to see what we're receiving
+    console.log('Received request:', {
+      buttonIndex: untrustedData?.buttonIndex,
+      state: untrustedData?.state,
+      projectsLength: projects.length
+    });
 
-    // If Home button is clicked (button index 4)
-    if (buttonIndex === 4) {
+    // Handle home button (index 4)
+    if (untrustedData?.buttonIndex === 4) {
       return new NextResponse(
         getFrameHtmlResponse({
           buttons: [
@@ -44,29 +50,38 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
       );
     }
 
-    // Parse state with better error handling
-    let currentIndex = 0; // Default to 0
-    try {
-      if (untrustedData?.state) {
+    // Initialize currentIndex
+    let currentIndex = 0;
+
+    // Only try to get state if we have a button press
+    if (untrustedData?.buttonIndex && untrustedData?.state) {
+      try {
         const stateData = JSON.parse(untrustedData.state);
-        currentIndex = typeof stateData.index === 'number' ? stateData.index : 0;
+        currentIndex = stateData.index ?? 0;
+      } catch (error) {
+        console.error('Error parsing state:', error);
+        currentIndex = 0;
       }
-    } catch (error) {
-      console.error('Error parsing state:', error);
+
+      // Handle navigation based on button press
+      switch (untrustedData.buttonIndex) {
+        case 1: // Previous
+          currentIndex = (currentIndex - 1 + projects.length) % projects.length;
+          break;
+        case 2: // Next
+          currentIndex = (currentIndex + 1) % projects.length;
+          break;
+        default:
+          // For any other button or initial load, keep currentIndex as is
+          break;
+      }
     }
 
-    // Handle navigation
-    if (buttonIndex === 2) { // Next
-      currentIndex = (currentIndex + 1) % projects.length;
-    } else if (buttonIndex === 1) { // Previous
-      currentIndex = (currentIndex - 1 + projects.length) % projects.length;
-    }
+    // Debug log to see what index we're using
+    console.log('Using index:', currentIndex);
 
-    console.log('Navigation:', {
-      buttonIndex,
-      currentIndex,
-      totalProjects: projects.length
-    });
+    // Ensure currentIndex is within bounds
+    currentIndex = Math.max(0, Math.min(currentIndex, projects.length - 1));
 
     const currentProject = projects[currentIndex];
     if (!currentProject) {
@@ -98,7 +113,7 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
         ],
         image: imageUrl,
         post_url: `${NEXT_PUBLIC_URL}/api/africa/projects`,
-        state: { index: currentIndex }, // Pass the state as an object, not a string
+        state: { index: currentIndex },
       })
     );
 
