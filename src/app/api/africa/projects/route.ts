@@ -11,6 +11,7 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     const body = await req.json();
     const { untrustedData } = body;
     
+    // Debug log to see what we're receiving
     console.log('Received request:', {
       buttonIndex: untrustedData?.buttonIndex,
       state: untrustedData?.state,
@@ -50,38 +51,33 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     }
 
     // Initialize currentIndex
-    let currentIndex = 0;
-
-    // Get current state if it exists
+    let currentIndex;
+    
+    // Parse state or set to 0 if no state exists
     if (untrustedData?.state) {
       try {
         const stateData = JSON.parse(untrustedData.state);
-        currentIndex = stateData.index ?? 0;
+        currentIndex = typeof stateData.index === 'number' ? stateData.index : 0;
       } catch (error) {
         console.error('Error parsing state:', error);
+        currentIndex = 0;
       }
+    } else {
+      currentIndex = 0; // Default to first project if no state
     }
 
-    // Handle navigation based on button press
-    if (untrustedData?.buttonIndex === 1) { // Previous
+    // Handle navigation
+    const buttonIndex = untrustedData?.buttonIndex;
+    if (buttonIndex === 1) { // Previous
       currentIndex = currentIndex <= 0 ? projects.length - 1 : currentIndex - 1;
-    } else if (untrustedData?.buttonIndex === 2) { // Next
+    } else if (buttonIndex === 2) { // Next
       currentIndex = currentIndex >= projects.length - 1 ? 0 : currentIndex + 1;
     }
 
-    console.log('Navigation:', {
-      buttonIndex: untrustedData?.buttonIndex,
-      currentIndex,
-      totalProjects: projects.length
-    });
+    // Debug log to see what index we're using
+    console.log('Using index:', currentIndex);
 
-    // Get current project and create response
     const currentProject = projects[currentIndex];
-    const nextIndex = (currentIndex + 1) % projects.length;
-    const prevIndex = (currentIndex - 1 + projects.length) % projects.length;
-    const nextProject = projects[nextIndex];
-    const prevProject = projects[prevIndex];
-
     if (!currentProject) {
       console.error('Project not found for index:', currentIndex);
       return new NextResponse('Project not found', { status: 500 });
@@ -92,11 +88,11 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
       getFrameHtmlResponse({
         buttons: [
           {
-            label: `← ${prevProject ? prevProject.name || 'Previous' : 'Previous'}`,
+            label: `Previous (${currentIndex + 1}/${projects.length})`,
             action: 'post',
           },
           {
-            label: `→ ${nextProject ? nextProject.name || 'Next' : 'Next'}`,
+            label: `Next (${currentIndex + 1}/${projects.length})`,
             action: 'post',
           },
           {
@@ -111,14 +107,11 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
         ],
         image: imageUrl,
         post_url: `${NEXT_PUBLIC_URL}/api/africa/projects`,
-        state: { 
-          index: currentIndex,
-          direction: untrustedData?.buttonIndex === 1 ? 'prev' : 'next'
-        },
+        state: { index: currentIndex },
       })
     );
 
-    // Cache control
+    // Set cache control headers
     response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
     response.headers.set('Pragma', 'no-cache');
     response.headers.set('Expires', '0');
