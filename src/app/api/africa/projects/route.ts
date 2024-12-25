@@ -138,3 +138,5 @@ response.headers.set('Clear-Site-Data', '"cache"');
     return new NextResponse('Internal server error', { status: 500 });
   }
 }
+
+export const fetchCache = 'force-no-store';

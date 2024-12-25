@@ -87,4 +87,5 @@ export async function GET(req: NextRequest): Promise<NextResponse> {
   }
 }
 
+export const fetchCache = 'force-no-store';
 export const dynamic = 'force-dynamic';

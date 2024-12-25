@@ -116,3 +116,5 @@ if (buttonIndex === 4) {
     return new NextResponse('Internal server error', { status: 500 });
   }
 }
+
+export const fetchCache = 'force-no-store';

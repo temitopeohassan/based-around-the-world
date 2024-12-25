@@ -41,4 +41,5 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
   );
 }
 
+export const fetchCache = 'force-no-store';
 export const dynamic = 'force-dynamic';
