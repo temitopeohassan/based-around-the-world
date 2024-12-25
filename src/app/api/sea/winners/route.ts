@@ -45,14 +45,15 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
   }
 
 
-    // Parse state with better error handling
+    // Parse state with URL decode and better error handling
     let currentIndex;
     try {
       if (untrustedData?.state) {
-        const stateData = JSON.parse(untrustedData.state);
+        const decodedState = decodeURIComponent(untrustedData.state);
+        const stateData = JSON.parse(decodedState);
         currentIndex = typeof stateData.index === 'number' ? stateData.index : 0;
       } else {
-        currentIndex = 0; // Set to 0 for initial load
+        currentIndex = 0;
       }
     } catch (error) {
       console.error('Error parsing state:', error);
