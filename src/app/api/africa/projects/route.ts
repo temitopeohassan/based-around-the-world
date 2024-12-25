@@ -1,13 +1,25 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getFrameHtmlResponse } from '@coinbase/onchainkit/frame';
 import { NEXT_PUBLIC_URL } from '../../../config';
-import projects from '../../../projects-africa.json';
 
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
+// Fetch projects from API
+async function fetchProjects() {
+  try {
+    const response = await fetch('https://base-around-the-world-api.vercel.app/api/projects/africa');
+    if (!response.ok) throw new Error('Failed to fetch projects');
+    return await response.json();
+  } catch (error) {
+    console.error('Error fetching projects:', error);
+    return [];
+  }
+}
+
 export async function POST(req: NextRequest): Promise<NextResponse> {
   try {
+    const projects = await fetchProjects();
     const body = await req.json();
     const { untrustedData } = body;
     
@@ -128,7 +140,6 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     response.headers.set('Expires', '0');
     response.headers.set('Surrogate-Control', 'no-store');
     response.headers.set('Clear-Site-Data', '"cache"');
-
 
     return response;
   } catch (error) {

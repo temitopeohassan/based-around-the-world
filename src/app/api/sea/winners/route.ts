@@ -1,49 +1,60 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getFrameHtmlResponse } from '@coinbase/onchainkit/frame';
 import { NEXT_PUBLIC_URL } from '../../../config';
-import winners from '../../../winners-sea.json';
 
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
+// Fetch winners from API
+async function fetchWinners() {
+  try {
+    const response = await fetch('https://base-around-the-world-api.vercel.app/api/winners/sea ');
+    if (!response.ok) throw new Error('Failed to fetch winners');
+    return await response.json();
+  } catch (error) {
+    console.error('Error fetching winners:', error);
+    return [];
+  }
+}
+
 export async function POST(req: NextRequest): Promise<NextResponse> {
   try {
+    const winners = await fetchWinners();
     const body = await req.json();
     const { untrustedData } = body;
     const buttonIndex = untrustedData?.buttonIndex || 0;
 
-  // If Home button is clicked (button index 4)
-  if (buttonIndex === 4) {
-    return new NextResponse(
-      getFrameHtmlResponse({
-        buttons: [
-          {
-            label: 'Based India',
-            action: 'post',
-            postUrl: `${NEXT_PUBLIC_URL}/api/india`,
-          },
-          {
-            label: 'Based Latam',
-            action: 'post',
-            postUrl: `${NEXT_PUBLIC_URL}/api/latam`,
-          },
-          {
-            label: 'Based SEA',
-            action: 'post',
-            postUrl: `${NEXT_PUBLIC_URL}/api/sea`,
-          },
-          {
-            label: 'Based Africa',
-            action: 'post',
-            postUrl: `${NEXT_PUBLIC_URL}/api/africa`,
-          },
-        ],
-        image: `${NEXT_PUBLIC_URL}/buildathon.png`,
-        post_url: `${NEXT_PUBLIC_URL}/api/projects?region=all`,
-      })
-    );
-  }
-
+    // If Home button is clicked (button index 4)
+    if (buttonIndex === 4) {
+      return new NextResponse(
+        getFrameHtmlResponse({
+          buttons: [
+            {
+              label: 'Based India',
+              action: 'post',
+              postUrl: `${NEXT_PUBLIC_URL}/api/india`,
+            },
+            {
+              label: 'Based Latam',
+              action: 'post',
+              postUrl: `${NEXT_PUBLIC_URL}/api/latam`,
+            },
+            {
+              label: 'Based SEA',
+              action: 'post',
+              postUrl: `${NEXT_PUBLIC_URL}/api/sea`,
+            },
+            {
+              label: 'Based Africa',
+              action: 'post',
+              postUrl: `${NEXT_PUBLIC_URL}/api/africa`,
+            },
+          ],
+          image: `${NEXT_PUBLIC_URL}/buildathon.png`,
+          post_url: `${NEXT_PUBLIC_URL}/api/projects?region=all`,
+        })
+      );
+    }
 
     // Parse state with URL decode and better error handling
     let currentIndex;
