@@ -1,25 +1,13 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getFrameHtmlResponse } from '@coinbase/onchainkit/frame';
 import { NEXT_PUBLIC_URL } from '../../../config';
+import winners from '../../../winners-india.json';
 
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
-// Fetch winners from API
-async function fetchWinners() {
-  try {
-    const response = await fetch('https://base-around-the-world-api.vercel.app/api/winners/india');
-    if (!response.ok) throw new Error('Failed to fetch winners');
-    return await response.json();
-  } catch (error) {
-    console.error('Error fetching winners:', error);
-    return [];
-  }
-}
-
 export async function POST(req: NextRequest): Promise<NextResponse> {
   try {
-    const winners = await fetchWinners();
     const body = await req.json();
     const { untrustedData } = body;
     const buttonIndex = untrustedData?.buttonIndex || 0;
@@ -56,14 +44,15 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     );
   }
 
-    // Parse state with better error handling
+    // Parse state with URL decode and better error handling
     let currentIndex;
     try {
       if (untrustedData?.state) {
-        const stateData = JSON.parse(untrustedData.state);
+        const decodedState = decodeURIComponent(untrustedData.state);
+        const stateData = JSON.parse(decodedState);
         currentIndex = typeof stateData.index === 'number' ? stateData.index : 0;
       } else {
-        currentIndex = 0; // Set to 0 for initial load
+        currentIndex = 0;
       }
     } catch (error) {
       console.error('Error parsing state:', error);
