@@ -1,0 +1,870 @@
+[
+    {
+      "image": "buildathon-og-0.png",
+      "name": "VAAYU ASTRA",
+      "link": "https://devfolio.co/projects/vaayu-astra-7095",
+      "description": "\" WEATHER UNLOCKED : REAL - TIME INSIGHTS FOR EVERY DAY \"",
+      "author": "Harshit"
+    },
+    {
+      "image": "buildathon-og-1.png",
+      "name": "OxyTech",
+      "link": "https://devfolio.co/projects/oxytech-a008",
+      "description": "We monitor spo2 level of patient and give them accurate amount of flowrate controlled by caretaker through the mobile application, also we store all patient medical records in the app",
+      "author": "Janani"
+    },
+    {
+      "image": "buildathon-og-2.png",
+      "name": "3:11:16 / 3:13:47  • Deployment   Build and De",
+      "link": "https://devfolio.co/projects/deployment-build-and-de-9af9",
+      "description": "Web 3.0 has the potential to change the internet as we know it, forever. You're still early in catching the trend right now and building your first blockchain cryptocurrency app.",
+      "author": "KARTIK"
+    },
+    {
+      "image": "buildathon-og-3.png",
+      "name": "Artplace",
+      "link": "https://devfolio.co/projects/artplace-9685",
+      "description": "Find the best art here and get a chance to buy and sell easily and in a secure manner.",
+      "author": "Akhil"
+    },
+    {
+      "image": "buildathon-og-4.png",
+      "name": "VidyaSetu(AI-Powered Student Assistance Chatbot).",
+      "link": "https://devfolio.co/projects/vidyasetuaipowered-student-assistance-chatbot-5421",
+      "description": "Empowering Students with Instant Information: Your Education Companion, Built with a Responsive Interface!",
+      "author": "Prashant"
+    },
+    {
+      "image": "buildathon-og-5.png",
+      "name": "ClownFish Protocol",
+      "link": "https://devfolio.co/projects/clownfish-protocol-167d",
+      "description": "Clownfish Protocol is a cross-chain liquidity aggregator yield protocol. ClownFish Protocol aggregates ETH, LST and LRT from Ethreum and issue ClownFish ETH (cfETH), a 1:1 pegged ERC-20 token on Base.",
+      "author": "Sky"
+    },
+    {
+      "image": "buildathon-og-6.png",
+      "name": "BaseCryptoQuest",
+      "link": "https://devfolio.co/projects/basecryptoquest-dda2",
+      "description": "A Python-powered crypto adventure game on the Base blockchain.",
+      "author": "MyDream"
+    },
+    {
+      "image": "buildathon-og-7.png",
+      "name": "Wow Park",
+      "link": "https://devfolio.co/projects/park-me-6ca9",
+      "description": "Park Smart, Pay Easy",
+      "author": "Jitz"
+    },
+    {
+      "image": "buildathon-og-8.png",
+      "name": "Automatic DAM monitoring and control system",
+      "link": "https://devfolio.co/projects/automatic-dam-monitoring-and-control-system-54d7",
+      "description": "It automates the DAM and provides interface to control the waterflow",
+      "author": "Ashwin"
+    },
+    {
+      "image": "buildathon-og-9.png",
+      "name": "UCTalent - Privacy Professional SocialFi Platform",
+      "link": "https://devfolio.co/projects/uctalent-privacy-professional-socialfi-platform-f642",
+      "description": "Unchain global talent by blockchain and you see talent on UCTalent.",
+      "author": "UCTalent Labs"
+    },
+    {
+      "image": "buildathon-og-10.png",
+      "name": "SkillChain",
+      "link": "https://devfolio.co/projects/skillchain-b192",
+      "description": "A blockchain-based platform revolutionizing how skills and qualifications are verified, empowering individuals with a secure, decentralized way to showcase their expertise and achievements globally, w",
+      "author": "Dhruv"
+    },
+    {
+      "image": "buildathon-og-11.png",
+      "name": "KINTOSS: Your Waste Partner Aggregator",
+      "link": "https://devfolio.co/projects/kintoss-your-waste-partner-aggregator-f07e",
+      "description": "A solution addressing Indonesia's pressing waste management challenges by unifying multiple waste banks into one account, simplifying recycling for users.",
+      "author": "Joshua"
+    },
+    {
+      "image": "buildathon-og-12.png",
+      "name": "B4Magic Guide",
+      "link": "https://devfolio.co/projects/bmagic-guide-6cd8",
+      "description": "Nothing is random, everything is for granted. The answers you seek are always within reach, but it's up to you to uncover them. We're here to guide you along the way.",
+      "author": "b4magic"
+    },
+    {
+      "image": "buildathon-og-13.png",
+      "name": "auto_BASED",
+      "link": "https://devfolio.co/projects/autobased-cf65",
+      "description": "Automate anything and anywhere",
+      "author": "Pavel"
+    },
+    {
+      "image": "buildathon-og-14.png",
+      "name": "Ficave",
+      "link": "https://devfolio.co/projects/ficave-d851",
+      "description": "decentralized medical records management system for people in Bangkok Thailand, and SEA region; upload,share and own your medical records& data onchain",
+      "author": "defiprince"
+    },
+    {
+      "image": "buildathon-og-15.png",
+      "name": "Bonbon",
+      "link": "https://devfolio.co/projects/bonbon-18c5",
+      "description": "The web3 social for carbon-neutral lifestyles in SEA",
+      "author": "Bonbon"
+    },
+    {
+      "image": "buildathon-og-16.png",
+      "name": "Trippor AI",
+      "link": "https://devfolio.co/projects/trippor-ai-f2e7",
+      "description": "Your AI-Powered Travel Companion with Blockchain-Backed Trust",
+      "author": "Tuan"
+    },
+    {
+      "image": "buildathon-og-17.png",
+      "name": "Car Parking Simulator for Driving Test",
+      "link": "https://devfolio.co/projects/car-parking-simulator-for-driving-test-cba9",
+      "description": "DApp simulates car parking test in the driving test. All results will be stored on the Base mainnet. Certificates will be issued as NFTs and can be used in any country. Users just need Wallet Address.",
+      "author": "Kelvin"
+    },
+    {
+      "image": "buildathon-og-18.png",
+      "name": "Local Coins",
+      "link": "https://devfolio.co/projects/local-coins-54c4",
+      "description": "LocalCoins is a decentralized, non-custodial, no-KYC peer-to-peer (P2P) platform that allows users to exchange cryptocurrency for fiat without intermediaries securely.",
+      "author": "Localcoins"
+    },
+    {
+      "image": "buildathon-og-19.png",
+      "name": "Base for Project Management Professional Exam",
+      "link": "https://devfolio.co/projects/base-for-project-management-professional-exam-97a6",
+      "description": "Project Management Professional (PMP) is a world-leading certification and is very important in Vietnam. Now the entire certification process is put on the Base, more transparent, easier to access.",
+      "author": "Linh"
+    },
+    {
+      "image": "buildathon-og-20.png",
+      "name": "NETRAKAVACH",
+      "link": "https://devfolio.co/projects/netrakavach-725b",
+      "description": "There is no better way to thank God for your sight than by giving a helping hand to someone in the dark",
+      "author": "Alstorm"
+    },
+    {
+      "image": "buildathon-og-21.png",
+      "name": "Coinbase Smart Passport",
+      "link": "https://devfolio.co/projects/coinbase-smart-passport-a2db",
+      "description": "Connect Trusted Identities to Coinbase Smart Wallet and pay the yearly fee with Smart Wallet or Credit Card via Stripe",
+      "author": "Coinbase Smart Passport"
+    },
+    {
+      "image": "buildathon-og-22.png",
+      "name": "WhiteBlue Swap - Cross chain swap solution on BASE",
+      "link": "https://devfolio.co/projects/simplifying-asset-transfers-across-chains-on-base-b131",
+      "description": "Cross-chain swap solution built on BASE for low-fee, seamless asset transfers across fragmented liquidity pools.",
+      "author": "WhiteBlue Labs"
+    },
+    { 
+      "image": "buildathon-og-23.png",
+      "name": "FlexiVault",
+      "link": "https://devfolio.co/projects/flexivault-c0da",
+      "description": "FlexiVault is an innovative DeFi platform designed to revolutionize personal finance management.",
+      "author": "Wiktoria"
+    },
+    {
+      "image": "buildathon-og-24.png",
+      "name": "ピクセルワールドグローブスキー PIXEL WORLD | GLOBESKI",
+      "link": "https://devfolio.co/projects/pixel-world-or-globeski-98a6",
+      "description": "Onboarding Normies in Japan with Smart Wallets + Gasless Transactions",
+      "author": "Mr.Brian"
+    },
+    {
+      "image": "buildathon-og-25.png",
+      "name": "BrownFi AMM",
+      "link": "https://devfolio.co/projects/brownfi-amm-d778",
+      "description": "Innovative oracle-based AMM offering high capital efficiency (100X UniswapV2), arbitrage resistance, flexible market making and simple LP management",
+      "author": "Paven"
+    },
+    {
+      "image": "buildathon-og-26.png",
+      "name": "BasedAuth",
+      "link": "https://devfolio.co/projects/lucaauth-5397",
+      "description": "Linking NFT wallets to student cards with biometrics and social logins powered by BASE",
+      "author": "Yudhishthra"
+    },
+    {
+      "image": "buildathon-og-27.png",
+      "name": "Crypto Quote Generator",
+      "link": "https://devfolio.co/projects/crypto-quote-generator-aaf1",
+      "description": "Generate inspiring cryptocurrency quotes at the click of a button!",
+      "author": "LOla"
+    },
+    {
+      "image": "buildathon-og-28.png",
+      "name": "Tike",
+      "link": "https://devfolio.co/projects/tike-7440",
+      "description": "Broadcast your fun",
+      "author": "Tike"
+    },
+    {
+      "image": "buildathon-og-29.png",
+      "name": "baseEastAfrica (eastafrika.base.eth)",
+      "link": "https://devfolio.co/projects/baseeastafrica-eastafrikabaseeth-4da0",
+      "description": "Onboarding the vibrant east africa onchain through Base's blockchain  seamless user experience, low gas fees and interoperability",
+      "author": "Francis"
+    },
+    {
+      "image": "buildathon-og-30.png",
+      "name": "Quadratic Voting Simulator (using IoT)",
+      "link": "https://devfolio.co/projects/quadratic-voting-simulator-using-iot-bdea",
+      "description": "Simulation on how quadratic voting can be applied in real-life using IoT.",
+      "author": "Muhammad Hariz Hakim"
+    },
+    {
+      "image": "buildathon-og-31.png",
+      "name": "DEKSA",
+      "link": "https://devfolio.co/projects/deksa-207b",
+      "description": "RWA from Real World Kingdom",
+      "author": "DEKSA"
+    },
+    {
+      "image": "buildathon-og-32.png",
+      "name": "BasedPay",
+      "link": "https://devfolio.co/projects/basedpay-ff2d",
+      "description": "BasedPay is the premier crypto payment service in Singapore. BasedPay provides a seamless and user-friendly solution for consumer payments by leveraging Base’s Smart Wallet and OnchainKit.",
+      "author": "BasedPay"
+    },
+    {
+      "image": "buildathon-og-33.png",
+      "name": "MediFund",
+      "link": "https://devfolio.co/projects/medifund-5981",
+      "description": "MediFund is a decentralized crowdfunding platform built to provide secure, transparent, and accessible financial assistance for medical treatments.",
+      "author": "Abdurraheem"
+    },
+    {
+      "image": "buildathon-og-34.png",
+      "name": "BonderMarket",
+      "link": "https://devfolio.co/projects/bondermarket-57b4",
+      "description": "A permissionless, decentralized protocol where users validate real-life outcomes - first use case being prediction markets",
+      "author": "agile"
+    },
+    {
+      "image": "buildathon-og-35.png",
+      "name": "Button Up: Quadratic Funding & Voting Game",
+      "link": "https://devfolio.co/projects/button-up-quadratic-funding-and-voting-game-2675",
+      "description": "A fun, gamified app that transforms voting and funding more engaging and impactful by using quadratic mechanisms with IoT potential and blockchain technology.",
+      "author": "Izhan"
+    },
+    {
+      "image": "buildathon-og-36.png",
+      "name": "Mini Safe",
+      "link": "https://devfolio.co/projects/mini-safe-7578",
+      "description": "Mini Safe is your friendly team multisig wallet integrated on Telegram for simplifying P2P payments on Base.",
+      "author": "Solene"
+    },
+    {
+      "image": "buildathon-og-37.png",
+      "name": "Base Multi-Wallet Explorer",
+      "link": "https://devfolio.co/projects/base-multiwallet-explorer-1562",
+      "description": "Easily explore and track multiple wallet balances on the Base blockchain with batch analysis.",
+      "author": "Banglad"
+    },
+    {
+      "image": "buildathon-og-38.png",
+      "name": "Pahal",
+      "link": "https://devfolio.co/projects/pahal-b2b9",
+      "description": "Secure Your Legacy, Simplify Your Wishes",
+      "author": "Rahul"
+    },
+    {
+      "image": "buildathon-og-39.png",
+      "name": "This is R.o.b.",
+      "link": "https://devfolio.co/projects/this-is-rob-b8eb",
+      "description": "Art Community and Fun",
+      "author": "Cowboy"
+    },
+    {
+      "image": "buildathon-og-40.png",
+      "name": "Cube",
+      "link": "https://devfolio.co/projects/cube-6eba",
+      "description": "Cube is a Seamless Interoperable QR Payments Solution that aims to onboard millions of TradFi merchants onto the onchain economy.",
+      "author": "Dann"
+    },
+    {
+      "image": "buildathon-og-41.png",
+      "name": "Chain Quadrant",
+      "link": "https://devfolio.co/projects/chain-quadrant-f67c",
+      "description": "A Cyberpunk Bounty Hunting MMORPG that designed for Southeast Asian Web2 gamer market so they can experience the Web3 gaming scene without they even realizing it because the onboarding is so seamless.",
+      "author": "Asthaverse Studio"
+    },
+    {
+      "image": "buildathon-og-42.png",
+      "name": "SertifyMe",
+      "link": "https://devfolio.co/projects/sertifyme-ba4c",
+      "description": "SertifyMe is an Ethereum-based decentralized application (DApp) that empowers institutions to issue verifiable and tamper-proof digital certifications as NFTs on the blockchain.",
+      "author": "Iqbal"
+    },
+    {
+      "image": "buildathon-og-43.png",
+      "name": "Based SEA Charity",
+      "link": "https://devfolio.co/projects/based-sea-charity-a4c9",
+      "description": "Revolutionizing Charity with Base\n- Our platform transforms charitable giving by leveraging Base blockchain technology. We offer a secure, transparent, and efficient solution for philanthropy",
+      "author": "Minh"
+    },
+    {
+      "image": "buildathon-og-44.png",
+      "name": "iCrypto Academy MiniApp",
+      "link": "https://devfolio.co/projects/icrypto-academy-miniapp-917a",
+      "description": "Learn, Upgrade Skills, Earn Rewards",
+      "author": "iCrypto Media"
+    },
+    {
+      "image": "buildathon-og-45.png",
+      "name": "Musang Charity",
+      "link": "https://devfolio.co/projects/musang-charity-fd60",
+      "description": "Decentralized crypto donations with zkTLS proof—ensuring transparency, eliminating fraud, and empowering global contributions across borders.",
+      "author": "MusangCharity"
+    },
+    {
+      "image": "buildathon-og-46.png",
+      "name": "ticketbase",
+      "link": "https://devfolio.co/projects/ticketbase-616b",
+      "description": "Decentralized Event Management",
+      "author": "Navinder Dinesh"
+    },
+    {
+      "image": "buildathon-og-47.png",
+      "name": "Silent Base",
+      "link": "https://devfolio.co/projects/silent-base-68ba",
+      "description": "Decentralized Trading Platform with Orderbook System on Ethereum Layer 2",
+      "author": "Kelvin"
+    },
+    {
+      "image": "buildathon-og-48.png",
+      "name": "Magnify.Cash",
+      "link": "https://devfolio.co/projects/magnifycash-8407",
+      "description": "Lend any token against any NFT.\n\nMagnify Cash offers borrowing against assets with custom terms, no oracles, and full user control, promoting financial inclusion.",
+      "author": "Magnify Labs"
+    },
+    {
+      "image": "buildathon-og-49.png",
+      "name": "Donat3",
+      "link": "https://devfolio.co/projects/donat-8653",
+      "description": "Effortless Crypto Donations to Multiple Recipients in a Single Transaction.",
+      "author": "Karlikovui"
+    },
+    {
+      "image": "buildathon-og-50.png",
+      "name": "CreatorHub",
+      "link": "https://devfolio.co/projects/creatorhub-7d00",
+      "description": "Empowers YouTube creators to own their content, engage with fans, and monetize through Web3 by minting channels and videos as NFTs, with royalty-sharing and subscription models.",
+      "author": "CreatorHub"
+    },
+    {
+      "image": "buildathon-og-51.png",
+      "name": "O'Watch",
+      "link": "https://devfolio.co/projects/owatch-9e70",
+      "description": "Watch To Earn",
+      "author": "Jogist"
+    },
+    {
+      "image": "buildathon-og-52.png",
+      "name": "just a slime",
+      "link": "https://devfolio.co/projects/just-a-slime-7643",
+      "description": "The cute formless monster on Base. Onboarding new users onchain.",
+      "author": "Ron"
+    },
+    {
+      "image": "buildathon-og-53.png",
+      "name": "AutoBase",
+      "link": "https://devfolio.co/projects/autobase-industrial-robotic-automation-on-base-98fb",
+      "description": "The first B2B Middleware-as-a-Service (MaaS) project to help industries in SEA design and develop custom API hub which connect their Robotic Process Automation (RPA) infrastructure to Base seamlessly.",
+      "author": "(Jimmy) Tan"
+    },
+    {
+      "image": "buildathon-og-54.png",
+      "name": "Memehunter",
+      "link": "https://devfolio.co/projects/memehunter-402d",
+      "description": "PumpFun 2.0, Revolutionizin Meme Coin, Pumpfun with Life Time Royalty for Developer :)",
+      "author": "Memehunter"
+    },
+    {
+      "image": "buildathon-og-55.png",
+      "name": "Automatic parking system",
+      "link": "https://devfolio.co/projects/automatic-parking-system-8a4b",
+      "description": "Automatic parking system",
+      "author": "Akash"
+    },
+    {
+      "image": "buildathon-og-56.png",
+      "name": "Supply Chain",
+      "link": "https://devfolio.co/projects/supply-chain-e41e",
+      "description": "A short, impactful description of your project. You could consider something like: \"Revolutionizing shipment tracking through transparent supply chain management.\"",
+      "author": "Zakir"
+    },
+    {
+      "image": "buildathon-og-57.png",
+      "name": "Crowdfunding platform",
+      "link": "https://devfolio.co/projects/crowdfunding-platform-d349",
+      "description": "It help people generate fund for anything to help people around the world",
+      "author": "Techno_sparX"
+    },
+    {
+      "image": "buildathon-og-58.png",
+      "name": "Visisphere",
+      "link": "https://devfolio.co/projects/visisphere-aabb",
+      "description": "Seeing the world with a complete new way.",
+      "author": "Gourav krishn"
+    },
+    {
+      "image": "buildathon-og-59.png",
+      "name": "To-Do List App",
+      "link": "https://devfolio.co/projects/todo-list-app-de6a",
+      "description": "Stay organized and manage your tasks effectively!",
+      "author": "Igor"
+    },
+    {
+      "image": "buildathon-og-60.png",
+      "name": "VR Educate",
+      "link": "https://devfolio.co/projects/orreus-4049",
+      "description": "A simple web app that offers users an immersive experience and learning.",
+      "author": "Raghuvaran"
+    },
+    {
+      "image": "buildathon-og-61.png",
+      "name": "Laicos",
+      "link": "https://devfolio.co/projects/laicos-6a26",
+      "description": "Laicos is a decentralized social platform that gives users full control over their data, privacy, and exclusive NFT content, providing a seamless and secure experience for creators and communities.",
+      "author": "Rades"
+    },
+    {
+      "image": "buildathon-og-62.png",
+      "name": "P2E-World",
+      "link": "https://devfolio.co/projects/peworld-ef61",
+      "description": "“Earn as you play, thrive as you win!”",
+      "author": "Aung"
+    },
+    {
+      "image": "buildathon-og-63.png",
+      "name": "DigiID",
+      "link": "https://devfolio.co/projects/digiid-84b3",
+      "description": "Empowering individuals with secure, decentralized identity management.",
+      "author": "John"
+    },
+    {
+      "image": "buildathon-og-64.png",
+      "name": "FC Storage Gift",
+      "link": "https://devfolio.co/projects/fc-storage-gift-bcf9",
+      "description": "Gifting storage to the farcaster users using Base Chain.",
+      "author": "Muhamad"
+    },
+    {
+      "image": "buildathon-og-65.png",
+      "name": "ChainTracks",
+      "link": "https://devfolio.co/projects/chaintracks-c351",
+      "description": "“Track Transparency, Transform Trust.”",
+      "author": "Cheng"
+    },
+    {
+      "image": "buildathon-og-66.png",
+      "name": "Virtual Cycling SG (VSG)'s WHEELZ Loyalty Program",
+      "link": "https://devfolio.co/projects/virtual-cycling-sg-vsgs-wheelz-loyalty-program-74c3",
+      "description": "We aim to gamify esports cycling with the WHEELZ token-based loyalty platform, where riders buy WHEELZ tokens with fiat, use them to enter races, compete, and win rewards in an engaging manner!",
+      "author": "Virtual Cycling SG (VSG)"
+    },
+    {
+      "image": "buildathon-og-67.png",
+      "name": "WhiteList Zone",
+      "link": "https://devfolio.co/projects/whitelist-zone-ea14",
+      "description": "WhiteList Zone is the 1st Web3 whitelist marketplace, offering safe access to unique investment opportunities sourced directly from launchpads and Web3 projects.",
+      "author": "Amir"
+    },
+    {
+      "image": "buildathon-og-68.png",
+      "name": "Thane",
+      "link": "https://devfolio.co/projects/thane-2061",
+      "description": "Thane is making DeFi accessible with a user-friendly, community-driven platform that empowers anyone to explore and invest together - unlocking the future of finance for the masses.",
+      "author": "Thane"
+    },
+    {
+      "image": "buildathon-og-69.png",
+      "name": "BLOCKVEST - Blockchain-Investment-Festival",
+      "link": "https://devfolio.co/projects/blockvest-blockchaininvestmentfestival-a247",
+      "description": "Platform in the web3 industry that aims to accelerate the adoption of crypto",
+      "author": "Danesh"
+    },
+    {
+      "image": "buildathon-og-70.png",
+      "name": "Base Farm Airdrop Clicker",
+      "link": "https://devfolio.co/projects/base-farm-airdrop-clicker-df96",
+      "description": "An interactive bubble pop game to promote Base ecosystem projects, where users earn rewards through playful engagement.",
+      "author": "Oleg"
+    },
+    {
+      "image": "buildathon-og-71.png",
+      "name": "KaBoom",
+      "link": "https://devfolio.co/projects/kaboom-3050",
+      "description": "KaBoom is the Consumer DeFi app bringing degens the easiest way to trade meme coins with just a swipe. Our mission is to bridge Web2 to Web3 and make DeFi accessible to 1 billion users globally.",
+      "author": "KaBoom"
+    },
+    {
+      "image": "buildathon-og-72.png",
+      "name": "Balance Viewer",
+      "link": "https://devfolio.co/projects/balance-viewer-3365",
+      "description": "A simple and intuitive service to check wallet balances on the Base blockchain",
+      "author": "brett"
+    },
+    {
+      "image": "buildathon-og-73.png",
+      "name": "SoupBase",
+      "link": "https://devfolio.co/projects/soupbase-a9c9",
+      "description": "SoupBase is a perpetual platform that is built for Base chain. It allows using native tokens of Basechain as collertoal to long/short BTC/Eth or etc.",
+      "author": "SoupBase"
+    },
+    {
+      "image": "buildathon-og-74.png",
+      "name": "House of Wizard",
+      "link": "https://devfolio.co/projects/house-of-wizard-85b2",
+      "description": "Data never Lies!",
+      "author": "Lydia"
+    },
+    {
+      "image": "buildathon-og-75.png",
+      "name": "Based Chula Students",
+      "link": "https://devfolio.co/projects/sdaasd-91ad",
+      "description": "Based Chula Students are excited to introduce Based Students on Twitter (X) and Basedstudents on Zora to promote education and onboard new students to onchain ecosystem.",
+      "author": "Based Students"
+    },
+    {
+      "image": "buildathon-og-76.png",
+      "name": "Clothing Store With Base",
+      "link": "https://devfolio.co/projects/clothing-store-with-base-0153",
+      "description": "Clothing Store With Base creates a unique shopping experience by combining 3D technology with Base. Convenient, fast, clear and economical.",
+      "author": "Luna"
+    },
+    {
+      "image": "buildathon-og-77.png",
+      "name": "Onchain Scholars",
+      "link": "https://devfolio.co/projects/onchain-scholars-a368",
+      "description": "Providing funding for access to tertiary education with trustless escrow contracts and on-chain attestations.",
+      "author": "Richard"
+    },
+    {
+      "image": "buildathon-og-78.png",
+      "name": "Fanster",
+      "link": "https://devfolio.co/projects/fanster-8ab2",
+      "description": "Entertainment application layer to enables content creators to seamlessly deliver premium content to their audiences worldwide.\nBuilt on Base with Smart Wallets and Basenames integrated.",
+      "author": "Fanster"
+    },
+    {
+      "image": "buildathon-og-79.png",
+      "name": "AgroFund",
+      "link": "https://devfolio.co/projects/agrofund-cc53",
+      "description": "A decentralized lending platform built on Base, enabling farmers to secure loans and investors to fund agricultural projects.",
+      "author": "wawan"
+    },
+    {
+      "image": "buildathon-og-80.png",
+      "name": "Artsky",
+      "link": "https://devfolio.co/projects/artsky-271c",
+      "description": "A loyalty Membership Brand based on NFT",
+      "author": "Arto"
+    },
+    {
+      "image": "buildathon-og-81.png",
+      "name": "CommunityDAO",
+      "link": "https://devfolio.co/projects/communitydao-d23e",
+      "description": "Building empowered communities through decentralized governance.",
+      "author": "Nguyen"
+    },
+    {
+      "image": "buildathon-og-82.png",
+      "name": "SOSPAWN",
+      "link": "https://devfolio.co/projects/sospawn-9ca6",
+      "description": "Lie down and earn money!",
+      "author": "Fitri"
+    },
+    {
+      "image": "buildathon-og-83.png",
+      "name": "GreenToken",
+      "link": "https://devfolio.co/projects/greentoken-ff57",
+      "description": "Tokenizing Renewable Energy for a Sustainable Future",
+      "author": "Harsh"
+    },
+    {
+      "image": "buildathon-og-84.png",
+      "name": "VERB",
+      "link": "https://devfolio.co/projects/verb-0bf4",
+      "description": "Verb is an advanced Aggregator of Aggregators designed to optimize multi-chain swaps, focusing on Base. It compares and utilizes both decentralized and centralized exchanges",
+      "author": "David"
+    },
+    {
+      "image": "buildathon-og-85.png",
+      "name": "LOONER: The Phygital Scavenger Hunt",
+      "link": "https://devfolio.co/projects/looner-the-phygital-scavenger-hunt-a5c3",
+      "description": "LOONER: A augmented reality scavenger hunt game that turns cities into interactive playgrounds, merging real-world exploration with digital ownership",
+      "author": "LOONER"
+    },
+    {
+      "image": "buildathon-og-86.png",
+      "name": "Base Wallet Watcher",
+      "link": "https://devfolio.co/projects/base-wallet-watcher-8195",
+      "description": "\"A real-time wallet balance viewer for Base blockchain users.\"",
+      "author": "devcoin"
+    },
+    {
+      "image": "buildathon-og-87.png",
+      "name": "Sea Battle Crypto",
+      "link": "https://devfolio.co/projects/sea-battle-crypto-59df",
+      "description": "A decentralized blockchain version of the classic Sea Battle game on Base.",
+      "author": "Rektovozka"
+    },
+    {
+      "image": "buildathon-og-88.png",
+      "name": "Learn Trail",
+      "link": "https://devfolio.co/projects/learn-trail-f37d",
+      "description": "Empowering Web3 Pioneers through Gamified Learning",
+      "author": "XK Society"
+    },
+    {
+      "image": "buildathon-og-89.png",
+      "name": "CryptoGuard",
+      "link": "https://devfolio.co/projects/cryptoguard-eef6",
+      "description": "A secure and user-friendly wallet for managing cryptocurrencies",
+      "author": "Bbased2"
+    },
+    {
+      "image": "buildathon-og-90.png",
+      "name": "Link Forge",
+      "link": "https://devfolio.co/projects/link-forge-12e2",
+      "description": "Empowering you with global opportunities to learn, compete, and grow—unlock your career potential with internships, jobs, and more, all in one place!",
+      "author": "Mousum"
+    },
+    {
+      "image": "buildathon-og-91.png",
+      "name": "The Racfathers",
+      "link": "https://devfolio.co/projects/racfathers-c2d0",
+      "description": "A hand-drawn NFT strategy game on the Base blockchain, where players rise through ranks by defeating enemies like Bear Boss and earning rewards.",
+      "author": "RACFATHERS"
+    },
+    {
+      "image": "buildathon-og-92.png",
+      "name": "Crop Safe",
+      "link": "https://devfolio.co/projects/crop-safe-795d",
+      "description": "decentralized platform offering AI-powered weather insurance for farmers",
+      "author": "SEA CREW"
+    },
+    {
+      "image": "buildathon-og-93.png",
+      "name": "SecureSignX",
+      "link": "https://devfolio.co/projects/securesignx-2f78",
+      "description": "SecureSignX: Decentralized compliance and audit trail system for document attestations via Sign Protocol, secure XMTP communication, and streamlined interactions using MessageKit Bot.",
+      "author": "Phenix"
+    },
+    {
+      "image": "buildathon-og-94.png",
+      "name": "AniVox",
+      "link": "https://devfolio.co/projects/anivox-21fd",
+      "description": "Fully on-chain RPG with MMO sandbox games",
+      "author": "choguun"
+    },
+    {
+      "image": "buildathon-og-95.png",
+      "name": "Farcaster Social Group Buying",
+      "link": "https://devfolio.co/projects/farcaster-social-group-buying-3105",
+      "description": "Empowering online shops with group buying promotions on Farcaster - boost sales, earn commissions, get discounts, and create a win-win for all!",
+      "author": "Ivan"
+    },
+    {
+      "image": "buildathon-og-96.png",
+      "name": "Libere",
+      "link": "https://devfolio.co/projects/libere-b122",
+      "description": "Libre for Liber\nLibere addresses the limitations of traditional platforms like Kindle, which impose high fees and restrict creators' control over their work.",
+      "author": "Ridho"
+    },
+    {
+      "image": "buildathon-og-97.png",
+      "name": "OnchainBuster",
+      "link": "https://devfolio.co/projects/onchainbuster-9549",
+      "description": "More than just your onchain footprint 👀 🔍\nDive into Base with recommendations tailored to your interests.",
+      "author": "SouthsideGang 🇻🇳"
+    },
+    {
+      "image": "buildathon-og-98.png",
+      "name": "StreamFund",
+      "link": "https://devfolio.co/projects/streamfund-a0fe",
+      "description": "Stream, Engage, and Earn",
+      "author": "Soft Brrrrrr"
+    },
+    {
+      "image": "buildathon-og-99.png",
+      "name": "MindConnect",
+      "link": "https://devfolio.co/projects/mindconnect-d7e6",
+      "description": "Your safe space for mental health support.",
+      "author": "Tatyana"
+    },
+    {
+      "image": "buildathon-og-100.png",
+      "name": "Asteroid tracker",
+      "link": "https://devfolio.co/projects/asteroid-tracker-c853",
+      "description": "An Asteroid Tracker monitors asteroids near Earth, using sensors and algorithms to predict impact risks and provide early warnings for planetary defense.",
+      "author": "Ladani"
+    },
+    {
+      "image": "buildathon-og-101.png",
+      "name": "Mentolink",
+      "link": "https://devfolio.co/projects/mentolink-ab66",
+      "description": "MentoLink is a dynamic platform designed to strengthen connections between students and alumni through a range of features that promote engagement and career development.",
+      "author": "AKATSUKI"
+    },
+    {
+      "image": "buildathon-og-102.png",
+      "name": "Chorus",
+      "link": "https://devfolio.co/projects/chorus-4108",
+      "description": "CHORUS is a decentralized platform designed to streamline and democratize access to educational scholarships for underserved African communities",
+      "author": "CHORUS"
+    },
+    {
+      "image": "buildathon-og-103.png",
+      "name": "Delegated Accounts and Crypto Plastic Money",
+      "link": "https://devfolio.co/projects/delegated-accounts-and-crypto-plastic-money-0845",
+      "description": "Carry Crypto without worrying about loosing your wallets, for wallets being stolen with Delegated Accounts and Crypto Plastic Money",
+      "author": "Ankit"
+    },
+    {
+      "image": "buildathon-og-104.png",
+      "name": "p",
+      "link": "https://devfolio.co/projects/musang-charity-d0dd",
+      "description": "p",
+      "author": "Musang Charity"
+    },
+    {
+      "image": "buildathon-og-105.png",
+      "name": "PhotoZapp",
+      "link": "https://devfolio.co/projects/photozapp-5ab9",
+      "description": "zap you photos securely!",
+      "author": "DAapp Dinos"
+    },
+    {
+      "image": "buildathon-og-106.png",
+      "name": "Kolektiva",
+      "link": "https://devfolio.co/projects/kolektiva-873d",
+      "description": "Democratizing Real Estate Investment",
+      "author": "Manexus"
+    },
+    {
+      "image": "buildathon-og-107.png",
+      "name": "Crypto-NFT-Art-Generator",
+      "link": "https://devfolio.co/projects/cryptonftartgenerator-fc88",
+      "description": "Where Creativity Meets Crypto!",
+      "author": "Dan"
+    },
+    {
+      "image": "buildathon-og-108.png",
+      "name": "Certicha",
+      "link": "https://devfolio.co/projects/certicha-2eed",
+      "description": "Super platform to create and manage event and certificate",
+      "author": "Certicha"
+    },
+    {
+      "image": "buildathon-og-109.png",
+      "name": "Token Allowance Checker",
+      "link": "https://devfolio.co/projects/token-allowance-checker-5088",
+      "description": "Ensure your crypto assets are secure by reviewing token allowances with ease!",
+      "author": "vah"
+    },
+    {
+      "image": "buildathon-og-110.png",
+      "name": "Durak on Base",
+      "link": "https://devfolio.co/projects/durak-on-base-d2e8",
+      "description": "A blockchain-powered version of the classic card game \"Durak\" on Base.",
+      "author": "Thai99"
+    },
+    {
+      "image": "buildathon-og-111.png",
+      "name": "agri_supply_chain",
+      "link": "https://devfolio.co/projects/agrisupplychain-e66a",
+      "description": "decentralized supply chain with extra ecc security",
+      "author": "Yangpun"
+    },
+    {
+      "image": "buildathon-og-112.png",
+      "name": "Kaivest",
+      "link": "https://devfolio.co/projects/kaivest-6fbf",
+      "description": "The ultimate platform for BASE traders, Spotting 100x meme before they’re trendings with Smart Money data and AI analytics",
+      "author": "Kaivest"
+    },
+    {
+      "image": "buildathon-og-113.png",
+      "name": "Encoteki",
+      "link": "https://devfolio.co/projects/encoteki-f6ba",
+      "description": "Encoteki uses NFTs to create a positive impact on the SEA (especially Indonesia) environment and community by offering real-world benefits to environment, community, holders, and SME partners.",
+      "author": "Winston"
+    },
+    {
+      "image": "buildathon-og-114.png",
+      "name": "Giko's Telescope: Onchain Streaming",
+      "link": "https://devfolio.co/projects/gikos-telescope-onchain-streaming-695c",
+      "description": "IP project that follows Giko and Iky as they explore some of the world's most important histories, now powered by the future of technology—Web3!",
+      "author": "Giko's"
+    },
+    {
+      "image": "buildathon-og-115.png",
+      "name": "R3mitt",
+      "link": "https://devfolio.co/projects/rmitt-6e93",
+      "description": "Open remittance network using stablecoin",
+      "author": "R3mitt"
+    },
+    {
+      "image": "buildathon-og-116.png",
+      "name": "MetaTasker",
+      "link": "https://devfolio.co/projects/metatasker-2376",
+      "description": "Decentralized platform for secure job contracts, biometric identity verification, and transparent agreements, empowering workers and employers with trustless, on-chain interactions.",
+      "author": "Swastik"
+    },
+    {
+      "image": "buildathon-og-117.png",
+      "name": "Wild Warriors DAO",
+      "link": "https://devfolio.co/projects/wild-warriors-dao-038c",
+      "description": "We are an organization dedicated to protecting urban and wild animals.Our mission is to create a global identification system that allows us to track,protect and ensure the well-being of these species",
+      "author": "Julian"
+    },
+    {
+      "image": "buildathon-og-118.png",
+      "name": "C++ (Covert Cash to on Chain)",
+      "link": "https://devfolio.co/projects/c-covert-cash-to-on-chain-062a",
+      "description": "We will exchange your change from cash to cryptocurrency. You are free to shop using any payment, but we return it to you in the form of ETH/Build Token.",
+      "author": "Rais"
+    },
+    {
+      "image": "buildathon-og-119.png",
+      "name": "Charit3",
+      "link": "https://devfolio.co/projects/donat-dbde",
+      "description": "Charit3 creates a UBI system where ETH is staked once and the yield is donated forever. Using quadratic funding, the community fairly decides how the yield is distributed to causes.",
+      "author": "Parallax"
+    },
+    {
+      "image": "buildathon-og-120.png",
+      "name": "Marksense",
+      "link": "https://devfolio.co/projects/marksense-bring-pnl-onchain-c3a3",
+      "description": "Bring PnL to Onchain",
+      "author": "Marksense"
+    },
+    {
+      "image": "buildathon-og-121.png",
+      "name": "NotPump",
+      "link": "https://devfolio.co/projects/notpump-46b1",
+      "description": "Empowers communities to grow new ERC-404 (or DN-404) standard using fungible and non-fungible tokens, achieving bonding curve fulfillment",
+      "author": "Vincent"
+    },
+    {
+      "image": "buildathon-og-122.png",
+      "name": "Base Drop",
+      "link": "https://devfolio.co/projects/base-drop-606a",
+      "description": "BaseDrop is a Telegram bot designed to onboard users to the Base through fun challenges, airdrops, and tasks. By completing actions such as following Base on X, creating coinbasewallet, ETC",
+      "author": "Based Kurd"
+    },
+    {
+      "image": "buildathon-og-123.png",
+      "name": "Moodeng Credit",
+      "link": "https://devfolio.co/projects/moodeng-credit-aa30",
+      "description": "Building onchain credit through unsecured onchain loans, along with a decentralised private credit market to support a community of lenders",
+      "author": "Jimmy"
+    }
+  ]
